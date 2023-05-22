@@ -349,7 +349,7 @@
             "script": "", 
             "trigger_id": 1289887746, 
             "trigger_name": "The_new_trigger_2", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_version": "1.2", 

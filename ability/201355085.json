@@ -78,7 +78,7 @@
             "script": "", 
             "trigger_id": 1647607809, 
             "trigger_name": "AbilityPercastEnds", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_version": "1.2", 

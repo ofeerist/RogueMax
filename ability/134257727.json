@@ -832,7 +832,14 @@
                     "enable": true
                 }
             ], 
-            "comment_str": {}, 
+            "comment_str": {
+                "1157934541": [
+                    1157934541, 
+                    "\u6d88\u9664\u4ec7\u6068-\u5bfb\u627e\u5176\u4ed6\u5408\u6cd5\u5355\u4f4d", 
+                    1484636162, 
+                    "action_type"
+                ]
+            }, 
             "condition": [], 
             "enabled": true, 
             "event": [
@@ -848,7 +855,7 @@
             "script": "", 
             "trigger_id": 1484636162, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668_2", 
-            "valid": true
+            "valid": false
         }, 
         "1547923457": {
             "action": [

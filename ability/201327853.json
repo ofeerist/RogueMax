@@ -603,7 +603,7 @@
             "script": "", 
             "trigger_id": 1214922754, 
             "trigger_name": "trigger_2", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_version": "1.2", 

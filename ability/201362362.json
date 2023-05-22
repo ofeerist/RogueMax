@@ -111,7 +111,7 @@
             "script": "", 
             "trigger_id": 1062768643, 
             "trigger_name": "Ability Gained", 
-            "valid": true
+            "valid": false
         }, 
         "1398067203": {
             "action": [
@@ -236,7 +236,7 @@
             "script": "", 
             "trigger_id": 1398067203, 
             "trigger_name": "Ability Precast Ends", 
-            "valid": true
+            "valid": false
         }, 
         "1532551172": {
             "action": [
@@ -504,7 +504,7 @@
             "script": "", 
             "trigger_id": 1532551172, 
             "trigger_name": "sub_trigger", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_version": "1.2", 

@@ -150,7 +150,7 @@
             "script": "", 
             "trigger_id": 391602177, 
             "trigger_name": "GainBuff", 
-            "valid": true
+            "valid": false
         }, 
         "1113075714": {
             "action": [

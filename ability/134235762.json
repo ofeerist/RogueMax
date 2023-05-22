@@ -896,7 +896,7 @@
             "script": "", 
             "trigger_id": 554352642, 
             "trigger_name": "AbilityPercastEnds", 
-            "valid": true
+            "valid": false
         }, 
         "1326080001": {
             "action": [

@@ -391,7 +391,7 @@
             "script": "", 
             "trigger_id": 598990855, 
             "trigger_name": "\u8f6e\u64ad", 
-            "valid": true
+            "valid": false
         }, 
         "848482312": {
             "action": [
@@ -748,7 +748,7 @@
             "script": "", 
             "trigger_id": 2054721543, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668_3", 
-            "valid": true
+            "valid": false
         }, 
         "2142490627": {
             "action": [
@@ -770,7 +770,7 @@
             "script": "", 
             "trigger_id": 2142490627, 
             "trigger_name": "\u97f3\u9891\u63a7\u5236", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_version": "1.2", 

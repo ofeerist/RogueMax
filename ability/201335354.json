@@ -575,7 +575,7 @@
             "script": "", 
             "trigger_id": 1644036097, 
             "trigger_name": "Ability Precast Ends", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_version": "1.2", 

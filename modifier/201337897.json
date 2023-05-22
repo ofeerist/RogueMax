@@ -53,7 +53,7 @@
             "script": "", 
             "trigger_id": 526344195, 
             "trigger_name": "AboutGetBuff", 
-            "valid": true
+            "valid": false
         }, 
         "2024296449": {
             "action": [
@@ -205,7 +205,7 @@
             "script": "", 
             "trigger_id": 2024296449, 
             "trigger_name": "GainBuff", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_version": "1.2", 

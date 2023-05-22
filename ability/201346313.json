@@ -609,7 +609,7 @@
             "script": "", 
             "trigger_id": 469766145, 
             "trigger_name": "Abilityprecastends", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_version": "1.2", 

@@ -1,0 +1,282 @@
+{
+    "trigger_dict": {
+        "618811464": {
+            "action": [
+                {
+                    "action_type": "SEND_CUSTOM_EVENT", 
+                    "args_list": [
+                        {
+                            "arg_type": 100238, 
+                            "args_list": [
+                                2071667064
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 618811464000008, 
+                    "enable": true
+                }
+            ], 
+            "comment_str": {}, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                [
+                                    "FLOAT", 
+                                    "DeltaTime"
+                                ]
+                            ], 
+                            "sub_type": 2
+                        }
+                    ], 
+                    "element_id": 618811464000003, 
+                    "enable": true, 
+                    "event_type": "GAME_ELAPSE_REPEAT"
+                }
+            ], 
+            "group_id": "IEUrwPZkEe2r2AJQxVZTed", 
+            "p_trigger_id": null, 
+            "script": "", 
+            "trigger_id": 618811464, 
+            "trigger_name": "FixedUpdate", 
+            "valid": true
+        }, 
+        "1903243344": {
+            "action": [
+                {
+                    "action_type": "IF_THEN_ELSE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100021, 
+                            "args_list": [
+                                {
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100021, 
+                                            "args_list": [
+                                                {
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100002, 
+                                                            "args_list": [
+                                                                {
+                                                                    "arg_type": 100006, 
+                                                                    "args_list": [
+                                                                        {
+                                                                            "arg_type": 100240, 
+                                                                            "args_list": [
+                                                                                "Unit"
+                                                                            ], 
+                                                                            "sub_type": 1
+                                                                        }
+                                                                    ], 
+                                                                    "sub_type": "GET_CUS_EVENT_PARAM"
+                                                                }
+                                                            ], 
+                                                            "call_rt_index": 0, 
+                                                            "op_arg": [], 
+                                                            "op_arg_enable": [], 
+                                                            "sub_type": "1ef1edcff6d211edbac40250c5565379"
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100015, 
+                                                            "args_list": [
+                                                                "=="
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100002, 
+                                                            "args_list": [
+                                                                0
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }
+                                                    ], 
+                                                    "condition_type": "FLOAT_COMPARE", 
+                                                    "element_id": 1745305602000138, 
+                                                    "enable": true
+                                                }, 
+                                                {
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100002, 
+                                                            "args_list": [
+                                                                {
+                                                                    "arg_type": 100006, 
+                                                                    "args_list": [
+                                                                        {
+                                                                            "arg_type": 100240, 
+                                                                            "args_list": [
+                                                                                "Unit"
+                                                                            ], 
+                                                                            "sub_type": 1
+                                                                        }
+                                                                    ], 
+                                                                    "sub_type": "GET_CUS_EVENT_PARAM"
+                                                                }
+                                                            ], 
+                                                            "call_rt_index": 0, 
+                                                            "op_arg": [], 
+                                                            "op_arg_enable": [], 
+                                                            "sub_type": "1ef1edcff6d211edbac40250c5565379"
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100015, 
+                                                            "args_list": [
+                                                                "=="
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100002, 
+                                                            "args_list": [
+                                                                1
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }
+                                                    ], 
+                                                    "condition_type": "FLOAT_COMPARE", 
+                                                    "element_id": 1745305602000150, 
+                                                    "enable": true
+                                                }
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "condition_type": "OR", 
+                                    "element_id": 1745305602000144, 
+                                    "enable": true
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [
+                                {
+                                    "action_type": "UNIT_ADD_TAG", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100006, 
+                                            "args_list": [
+                                                {
+                                                    "arg_type": 100240, 
+                                                    "args_list": [
+                                                        "Unit"
+                                                    ], 
+                                                    "sub_type": 1
+                                                }
+                                            ], 
+                                            "sub_type": "GET_CUS_EVENT_PARAM"
+                                        }, 
+                                        {
+                                            "arg_type": 100003, 
+                                            "args_list": [
+                                                "AbilityReady"
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 1903243344000027, 
+                                    "enable": true
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [
+                                {
+                                    "action_type": "UNIT_REMOVE_TAG", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100006, 
+                                            "args_list": [
+                                                {
+                                                    "arg_type": 100240, 
+                                                    "args_list": [
+                                                        "Unit"
+                                                    ], 
+                                                    "sub_type": 1
+                                                }
+                                            ], 
+                                            "sub_type": "GET_CUS_EVENT_PARAM"
+                                        }, 
+                                        {
+                                            "arg_type": 100003, 
+                                            "args_list": [
+                                                "AbilityReady"
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 1903243344000024, 
+                                    "enable": true
+                                }
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1903243344000018, 
+                    "enable": true
+                }
+            ], 
+            "comment_str": {}, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 100238, 
+                            "args_list": [
+                                1243692175
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 1903243344000001, 
+                    "enable": true, 
+                    "event_type": "RECEIVE_CUSTOM_EVENT"
+                }
+            ], 
+            "group_id": "tZzIQPbDEe2EAwJQxVZTeX", 
+            "p_trigger_id": null, 
+            "script": "", 
+            "trigger_id": 1903243344, 
+            "trigger_name": "AbilityReady", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": {
+        "_trigger_group_": true, 
+        "group": [
+            {
+                "__tuple__": true, 
+                "items": [
+                    618811464, 
+                    "FixedUpdate"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    1903243344, 
+                    "AbilityReady"
+                ]
+            }
+        ], 
+        "key": "tZzIQPbDEe2EAwJQxVZTeX", 
+        "name": "Engine"
+    }
+}

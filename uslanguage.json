@@ -1,4 +1,92 @@
 {
+    "-1781679083": {
+        "key": -1781679083, 
+        "value": "Template"
+    }, 
+    "-1649203581": {
+        "key": -1649203581, 
+        "value": "Empty Unit"
+    }, 
+    "-1615486903": {
+        "key": -1615486903, 
+        "value": "Create New Ability"
+    }, 
+    "-1599216951": {
+        "key": -1599216951, 
+        "value": "VMelee2Attack"
+    }, 
+    "-1532475323": {
+        "key": -1532475323, 
+        "value": "MeleeAttack"
+    }, 
+    "-1311762468": {
+        "key": -1311762468, 
+        "value": "VMeleeAttack"
+    }, 
+    "-1275081584": {
+        "key": -1275081584, 
+        "value": "Create New Sound"
+    }, 
+    "-21998604": {
+        "key": -21998604, 
+        "value": "Create New Sound"
+    }, 
+    "154693634": {
+        "key": 154693634, 
+        "value": "Create New Ability"
+    }, 
+    "361342461": {
+        "key": 361342461, 
+        "value": "MeleeAttack3Start"
+    }, 
+    "452244381": {
+        "key": 452244381, 
+        "value": "Template"
+    }, 
+    "629082852": {
+        "key": 629082852, 
+        "value": "Create New Sound"
+    }, 
+    "762450825": {
+        "key": 762450825, 
+        "value": "MeleeQAttack"
+    }, 
+    "809133551": {
+        "key": 809133551, 
+        "value": "Create New Ability"
+    }, 
+    "879034569": {
+        "key": 879034569, 
+        "value": "MeleeAttack2"
+    }, 
+    "906037645": {
+        "key": 906037645, 
+        "value": "Create New Ability"
+    }, 
+    "1128031773": {
+        "key": 1128031773, 
+        "value": "MeleeAttack11"
+    }, 
+    "1451114078": {
+        "key": 1451114078, 
+        "value": "MeleeAttack1"
+    }, 
+    "1497631207": {
+        "key": 1497631207, 
+        "value": "MeleeAttack2"
+    }, 
+    "1522466758": {
+        "key": 1522466758, 
+        "value": "Create New Ability"
+    }, 
+    "1810282861": {
+        "key": 1810282861, 
+        "value": "Melee2Attack"
+    }, 
+    "1948298895": {
+        "key": 1948298895, 
+        "value": "Template"
+    }, 
     "$code_camp_referee": {
         "key": "$code_camp_referee", 
         "value": "Observer"
@@ -15,6 +103,14 @@
         "key": "$player 1", 
         "value": "Player 1"
     }, 
+    "$player 2": {
+        "key": "$player 2", 
+        "value": "Player 2"
+    }, 
+    "$player 3": {
+        "key": "$player 3", 
+        "value": "Player 3"
+    }, 
     "$player 31": {
         "key": "$player 31", 
         "value": "Neutral Hostile"
@@ -22,5 +118,9 @@
     "$player 32": {
         "key": "$player 32", 
         "value": "Neutral Friendly"
+    }, 
+    "$player 4": {
+        "key": "$player 4", 
+        "value": "Player 4"
     }
 }

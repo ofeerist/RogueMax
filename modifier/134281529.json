@@ -284,7 +284,7 @@
             "script": "", 
             "trigger_id": 1832513540, 
             "trigger_name": "GainBuff", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_version": "1.2", 

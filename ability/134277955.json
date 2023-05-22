@@ -652,7 +652,7 @@
             }, 
             "trigger_id": 981692420, 
             "trigger_name": "\u5b50\u89e6\u53d1\u5668", 
-            "valid": true
+            "valid": false
         }, 
         "1247707137": {
             "action": [
@@ -721,7 +721,7 @@
             "script": "", 
             "trigger_id": 1247707137, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
-            "valid": true
+            "valid": false
         }, 
         "1252257798": {
             "action": [
@@ -871,7 +871,7 @@
             "script": "", 
             "trigger_id": 1820487683, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668_2", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_version": "1.2", 

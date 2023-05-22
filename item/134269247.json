@@ -86,7 +86,7 @@
             "script": "", 
             "trigger_id": 24829963, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668_3", 
-            "valid": true
+            "valid": false
         }, 
         "189644812": {
             "action": [
@@ -392,7 +392,7 @@
             "script": "", 
             "trigger_id": 528146433, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
-            "valid": true
+            "valid": false
         }, 
         "1078902796": {
             "action": [

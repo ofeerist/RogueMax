@@ -453,7 +453,7 @@
             "script": "", 
             "trigger_id": 691769346, 
             "trigger_name": "hacking", 
-            "valid": true
+            "valid": false
         }, 
         "893100035": {
             "action": [
@@ -540,7 +540,7 @@
             "script": "", 
             "trigger_id": 1027297281, 
             "trigger_name": "Ability gained", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_version": "1.2", 

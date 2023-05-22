@@ -101,7 +101,7 @@
             "script": "", 
             "trigger_id": 463007748, 
             "trigger_name": "SpecifiedAbilityOwnerUnitKillsOtherUnit", 
-            "valid": true
+            "valid": false
         }, 
         "1300942849": {
             "action": [
@@ -123,7 +123,7 @@
             "script": "", 
             "trigger_id": 1300942849, 
             "trigger_name": "AbilityGained", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_version": "1.2", 

@@ -962,7 +962,7 @@
             "script": "", 
             "trigger_id": 1346011138, 
             "trigger_name": "Action", 
-            "valid": true
+            "valid": false
         }, 
         "1797001217": {
             "action": [

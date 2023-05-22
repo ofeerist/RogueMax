@@ -133,7 +133,7 @@
             "script": "", 
             "trigger_id": 224649219, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668_3", 
-            "valid": true
+            "valid": false
         }, 
         "362840065": {
             "action": [], 
@@ -334,7 +334,7 @@
             "script": "", 
             "trigger_id": 664866818, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668_2", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_version": "1.2", 

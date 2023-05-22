@@ -101,7 +101,7 @@
             "script": "", 
             "trigger_id": 639942659, 
             "trigger_name": "\u5b50\u89e6\u53d1\u5668", 
-            "valid": true
+            "valid": false
         }, 
         "673075202": {
             "action": [
@@ -286,7 +286,7 @@
             "script": "", 
             "trigger_id": 840847361, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_version": "1.2", 

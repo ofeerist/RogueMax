@@ -168,5 +168,33 @@
   "button_6": 1243921792, 
   "win": 1761665650, 
   "SceneUI": 1642333460
+ }, 
+ "tv1": {
+  "Default_Var_Name": 1278561207, 
+  "InputDirection": 1969309767, 
+  "DeltaTime": 2115126379, 
+  "LastLMBPress": 1110643703, 
+  "LastLMBPress_2": 1482401562, 
+  "LastLMBRelease": 1435012845, 
+  "LMBDiff": 1501620353, 
+  "WALK": 1399923790, 
+  "IDLE": 1819375353
+ }, 
+ "tv6": {
+  "Default_Var_Name": 1051444118, 
+  "LastInput": 1648645933, 
+  "IDLE": 1851900842, 
+  "IDLE_2": 1881970941, 
+  "IDLE_3": 2104368333, 
+  "WALK": 1390444626, 
+  "ATTACK": 1267428741, 
+  "LastPoint": 1972070804, 
+  "Speed": 1740161198, 
+  "MovementUnit": 2033475180
+ }, 
+ "tv3": {
+  "ATTACK": 1632400750, 
+  "LastInput": 1145809725, 
+  "IDLE": 2135523432
  }
 }

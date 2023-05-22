@@ -23,7 +23,7 @@
             "script": "", 
             "trigger_id": 123617281, 
             "trigger_name": "Ability Gained", 
-            "valid": true
+            "valid": false
         }, 
         "202452995": {
             "action": [
@@ -200,7 +200,7 @@
             "script": "", 
             "trigger_id": 202452995, 
             "trigger_name": "sub_trigger", 
-            "valid": true
+            "valid": false
         }, 
         "1124560898": {
             "action": [
@@ -537,7 +537,7 @@
             "script": "", 
             "trigger_id": 1203277828, 
             "trigger_name": "sub_trigger2", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_version": "1.2", 

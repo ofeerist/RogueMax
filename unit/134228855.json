@@ -146,7 +146,7 @@
             "script": "", 
             "trigger_id": 263532556, 
             "trigger_name": "\u97f3\u9891\u63a7\u5236", 
-            "valid": true
+            "valid": false
         }, 
         "692002818": {
             "action": [
@@ -1243,7 +1243,7 @@
             "script": "", 
             "trigger_id": 2025140240, 
             "trigger_name": "\u8f6e\u64ad", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_version": "1.2", 

@@ -174,7 +174,7 @@
             "script": "", 
             "trigger_id": 1280131074, 
             "trigger_name": "AbilityGained", 
-            "valid": true
+            "valid": false
         }, 
         "1435660289": {
             "action": [
@@ -375,7 +375,7 @@
             "script": "", 
             "trigger_id": 1435660289, 
             "trigger_name": "AbilityPercastEnds", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_version": "1.2", 

@@ -205,7 +205,7 @@
             "script": "", 
             "trigger_id": 2051772418, 
             "trigger_name": "Action", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_version": "1.2", 

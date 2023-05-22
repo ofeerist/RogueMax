@@ -80,7 +80,7 @@
             "script": "", 
             "trigger_id": 1458143234, 
             "trigger_name": "AbilityPercastEnds", 
-            "valid": true
+            "valid": false
         }, 
         "1760133121": {
             "action": [], 

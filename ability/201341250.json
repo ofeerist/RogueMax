@@ -100,7 +100,7 @@
             "script": "", 
             "trigger_id": 188153859, 
             "trigger_name": "AbilityPercastEnds", 
-            "valid": true
+            "valid": false
         }, 
         "1545474049": {
             "action": [
@@ -122,7 +122,7 @@
             "script": "", 
             "trigger_id": 1545474049, 
             "trigger_name": "AbilityGained", 
-            "valid": true
+            "valid": false
         }, 
         "1998483458": {
             "action": [
@@ -290,7 +290,7 @@
             "script": "", 
             "trigger_id": 1998483458, 
             "trigger_name": "UnitDeadEventHandler", 
-            "valid": true
+            "valid": false
         }, 
         "2067718148": {
             "action": [

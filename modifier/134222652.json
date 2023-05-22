@@ -35,7 +35,7 @@
             "script": "", 
             "trigger_id": 1292943361, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
-            "valid": true
+            "valid": false
         }, 
         "1913724931": {
             "action": [
@@ -231,7 +231,7 @@
             }, 
             "trigger_id": 1913724931, 
             "trigger_name": "\u5b50\u89e6\u53d1\u5668", 
-            "valid": true
+            "valid": false
         }, 
         "1964036098": {
             "action": [

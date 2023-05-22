@@ -48,7 +48,7 @@
             "script": "", 
             "trigger_id": 951271427, 
             "trigger_name": "\u97f3\u9891\u63a7\u5236", 
-            "valid": true
+            "valid": false
         }, 
         "1051934727": {
             "action": [
@@ -426,7 +426,7 @@
             "script": "", 
             "trigger_id": 1051934727, 
             "trigger_name": "\u8f6e\u64ad", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_version": "1.2", 

@@ -202,7 +202,7 @@
             "script": "", 
             "trigger_id": 1281990657, 
             "trigger_name": "The_new_trigger", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_version": "1.2", 

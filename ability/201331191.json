@@ -754,7 +754,7 @@
             "script": "", 
             "trigger_id": 336822274, 
             "trigger_name": "AbilityContinuousCastingEnds", 
-            "valid": true
+            "valid": false
         }, 
         "1611640833": {
             "action": [
@@ -1769,7 +1769,7 @@
             "script": "", 
             "trigger_id": 1611640833, 
             "trigger_name": "AbilityPercastStarts", 
-            "valid": true
+            "valid": false
         }, 
         "1923776515": {
             "action": [

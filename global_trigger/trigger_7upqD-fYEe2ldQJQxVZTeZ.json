@@ -1,0 +1,119 @@
+{
+    "trigger_dict": {
+        "1811341388": {
+            "action": [
+                {
+                    "action_type": "PRINT_MESSAGE_ACTION_TO_DIALOG", 
+                    "args_list": [
+                        {
+                            "arg_type": 100175, 
+                            "args_list": [
+                                3
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100003, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100003, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                {
+                                                    "arg_type": 100240, 
+                                                    "args_list": [
+                                                        "NewState"
+                                                    ], 
+                                                    "sub_type": 1
+                                                }
+                                            ], 
+                                            "sub_type": "GET_CUS_EVENT_PARAM"
+                                        }
+                                    ], 
+                                    "sub_type": "ANY_VAR_TO_STR"
+                                }, 
+                                {
+                                    "arg_type": 100003, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100003, 
+                                            "args_list": [
+                                                " | "
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100003, 
+                                            "args_list": [
+                                                {
+                                                    "arg_type": 100002, 
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100240, 
+                                                            "args_list": [
+                                                                "OldState"
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }
+                                                    ], 
+                                                    "sub_type": "GET_CUS_EVENT_PARAM"
+                                                }
+                                            ], 
+                                            "sub_type": "ANY_VAR_TO_STR"
+                                        }
+                                    ], 
+                                    "sub_type": "STR_JOIN"
+                                }
+                            ], 
+                            "sub_type": "STR_JOIN"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1811341388000004, 
+                    "enable": true
+                }
+            ], 
+            "comment_str": {}, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 100238, 
+                            "args_list": [
+                                1243692175
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 1811341388000001, 
+                    "enable": true, 
+                    "event_type": "RECEIVE_CUSTOM_EVENT"
+                }
+            ], 
+            "group_id": "7upqD-fYEe2ldQJQxVZTeZ", 
+            "p_trigger_id": null, 
+            "script": "", 
+            "trigger_id": 1811341388, 
+            "trigger_name": "State", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": {
+        "_trigger_group_": true, 
+        "group": [
+            {
+                "__tuple__": true, 
+                "items": [
+                    1811341388, 
+                    "State"
+                ]
+            }
+        ], 
+        "key": "7upqD-fYEe2ldQJQxVZTeZ", 
+        "name": "Debug"
+    }
+}

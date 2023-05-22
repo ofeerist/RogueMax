@@ -550,7 +550,7 @@
             "script": "", 
             "trigger_id": 1502736385, 
             "trigger_name": "AbilityPercastStarts", 
-            "valid": true
+            "valid": false
         }, 
         "1737646082": {
             "action": [
@@ -2451,7 +2451,14 @@
                     "enable": true
                 }
             ], 
-            "comment_str": {}, 
+            "comment_str": {
+                "1323326676": [
+                    1323326676, 
+                    "\u80cc\u5bf9", 
+                    1737646082, 
+                    "condition_type"
+                ]
+            }, 
             "condition": [], 
             "enabled": true, 
             "event": [
@@ -2467,7 +2474,7 @@
             "script": "", 
             "trigger_id": 1737646082, 
             "trigger_name": "AbilityPercastEnds", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_version": "1.2", 

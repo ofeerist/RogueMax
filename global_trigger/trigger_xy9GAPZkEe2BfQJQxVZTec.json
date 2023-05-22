@@ -1,0 +1,418 @@
+{
+    "trigger_dict": {
+        "15609913": {
+            "action": [
+                {
+                    "action_type": "PICK_PLAYER_DO_ACTION", 
+                    "args_list": [
+                        {
+                            "arg_type": 100027, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "PLAYER_GROUP", 
+                                        "Player Group", 
+                                        "local"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 14
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [
+                                {
+                                    "action_type": "PLAY_3D_SOUND_FOR_PLAYER", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100025, 
+                                            "args_list": [], 
+                                            "sub_type": "PICKED_PLAYER"
+                                        }, 
+                                        {
+                                            "arg_type": 100084, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "AUDIO_KEY", 
+                                                        "Sound Type", 
+                                                        "local"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": "VARIABLE"
+                                        }, 
+                                        {
+                                            "arg_type": 100004, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "POINT", 
+                                                        "Point", 
+                                                        "local"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 19
+                                        }, 
+                                        {
+                                            "arg_type": 100000, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "FLOAT", 
+                                                        "Height", 
+                                                        "local"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 2
+                                        }, 
+                                        {
+                                            "arg_type": 100001, 
+                                            "args_list": [
+                                                true
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 15609913000001, 
+                                    "enable": true, 
+                                    "op_arg": [
+                                        null, 
+                                        null, 
+                                        {
+                                            "arg_type": 100001, 
+                                            "args_list": [
+                                                true
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "op_arg_enable": [
+                                        false, 
+                                        false, 
+                                        true
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 15609913000002, 
+                    "enable": true
+                }
+            ], 
+            "comment_str": {}, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [], 
+            "func_des": "Play Looped 3D sound {Sound Type} for {Player Group} with coordinated {Point} and height {Height}", 
+            "func_id": "0287bf80deae11edaa7f0250c5565379", 
+            "func_name": "Play3DSoundLooped", 
+            "func_param_list": [
+                [
+                    "Sound Type", 
+                    true
+                ], 
+                [
+                    "Player Group", 
+                    true
+                ], 
+                [
+                    "Point", 
+                    true
+                ], 
+                [
+                    "Height", 
+                    true
+                ]
+            ], 
+            "group_id": "xy9GAPZkEe2BfQJQxVZTec", 
+            "is_func": true, 
+            "is_official_func": false, 
+            "p_trigger_id": null, 
+            "script": "", 
+            "trigger_id": 15609913, 
+            "trigger_name": "Play3DSoundLooped", 
+            "valid": true
+        }, 
+        "1374564410": {
+            "action": [
+                {
+                    "action_type": "PICK_PLAYER_DO_ACTION", 
+                    "args_list": [
+                        {
+                            "arg_type": 100027, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "PLAYER_GROUP", 
+                                        "Player Group", 
+                                        "local"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 14
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [
+                                {
+                                    "action_type": "PLAY_SOUND_FOR_PLAYER", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100025, 
+                                            "args_list": [], 
+                                            "sub_type": "PICKED_PLAYER"
+                                        }, 
+                                        {
+                                            "arg_type": 100084, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "AUDIO_KEY", 
+                                                        "Sound Type", 
+                                                        "local"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": "VARIABLE"
+                                        }, 
+                                        {
+                                            "arg_type": 100001, 
+                                            "args_list": [
+                                                false
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 1374564410000001, 
+                                    "enable": true, 
+                                    "op_arg": [
+                                        null, 
+                                        null
+                                    ], 
+                                    "op_arg_enable": [
+                                        false, 
+                                        false
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1374564410000002, 
+                    "enable": true
+                }
+            ], 
+            "comment_str": {}, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [], 
+            "func_des": "Play sound {Sound Type} for {Player Group} with coordinated  and height ", 
+            "func_id": "ac1ed380debd11ed83ab0250c5565379", 
+            "func_name": "PlaySound", 
+            "func_param_list": [
+                [
+                    "Sound Type", 
+                    true
+                ], 
+                [
+                    "Player Group", 
+                    true
+                ]
+            ], 
+            "group_id": "xy9GAPZkEe2BfQJQxVZTec", 
+            "is_func": true, 
+            "is_official_func": false, 
+            "p_trigger_id": null, 
+            "script": "", 
+            "trigger_id": 1374564410, 
+            "trigger_name": "PlaySound", 
+            "valid": true
+        }, 
+        "1995321400": {
+            "action": [
+                {
+                    "action_type": "PICK_PLAYER_DO_ACTION", 
+                    "args_list": [
+                        {
+                            "arg_type": 100027, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "PLAYER_GROUP", 
+                                        "Player Group", 
+                                        "local"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 14
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [
+                                {
+                                    "action_type": "PLAY_3D_SOUND_FOR_PLAYER", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100025, 
+                                            "args_list": [], 
+                                            "sub_type": "PICKED_PLAYER"
+                                        }, 
+                                        {
+                                            "arg_type": 100084, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "AUDIO_KEY", 
+                                                        "Sound Type", 
+                                                        "local"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": "VARIABLE"
+                                        }, 
+                                        {
+                                            "arg_type": 100004, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "POINT", 
+                                                        "Point", 
+                                                        "local"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 19
+                                        }, 
+                                        {
+                                            "arg_type": 100000, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "FLOAT", 
+                                                        "Height", 
+                                                        "local"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 2
+                                        }, 
+                                        {
+                                            "arg_type": 100001, 
+                                            "args_list": [
+                                                false
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 1995321400000001, 
+                                    "enable": true, 
+                                    "op_arg": [
+                                        null, 
+                                        null, 
+                                        {
+                                            "arg_type": 100001, 
+                                            "args_list": [
+                                                true
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "op_arg_enable": [
+                                        false, 
+                                        false, 
+                                        true
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1995321400000002, 
+                    "enable": true
+                }
+            ], 
+            "comment_str": {}, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [], 
+            "func_des": "Play 3D sound {Sound Type} for {Player Group} with coordinated {Point} and height {Height}", 
+            "func_id": "02879870deae11edad0a0250c5565379", 
+            "func_name": "Play3DSound", 
+            "func_param_list": [
+                [
+                    "Sound Type", 
+                    true
+                ], 
+                [
+                    "Player Group", 
+                    true
+                ], 
+                [
+                    "Point", 
+                    true
+                ], 
+                [
+                    "Height", 
+                    true
+                ]
+            ], 
+            "group_id": "xy9GAPZkEe2BfQJQxVZTec", 
+            "is_func": true, 
+            "is_official_func": false, 
+            "p_trigger_id": null, 
+            "script": "", 
+            "trigger_id": 1995321400, 
+            "trigger_name": "Play3DSound", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": {
+        "_function_": true, 
+        "_trigger_group_": true, 
+        "group": [
+            {
+                "__tuple__": true, 
+                "items": [
+                    1995321400, 
+                    "Play3DSound"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    15609913, 
+                    "Play3DSoundLooped"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    1374564410, 
+                    "PlaySound"
+                ]
+            }
+        ], 
+        "key": "xy9GAPZkEe2BfQJQxVZTec", 
+        "name": "Sound"
+    }
+}

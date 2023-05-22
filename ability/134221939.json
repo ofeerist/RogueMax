@@ -566,7 +566,14 @@
                     ]
                 }
             ], 
-            "comment_str": {}, 
+            "comment_str": {
+                "1495970202": [
+                    1495970202, 
+                    "TODO:\u64ad\u653e\u52a8\u753b\u3001\u7279\u6548\u7b49", 
+                    723120129, 
+                    "action_type"
+                ]
+            }, 
             "condition": [], 
             "enabled": true, 
             "event": [
@@ -1399,7 +1406,7 @@
             "script": "", 
             "trigger_id": 1263722498, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668_2", 
-            "valid": true
+            "valid": false
         }, 
         "1564327939": {
             "action": [
@@ -1574,7 +1581,7 @@
             "script": "", 
             "trigger_id": 1564327939, 
             "trigger_name": "\u5b50\u89e6\u53d1\u5668", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_version": "1.2", 

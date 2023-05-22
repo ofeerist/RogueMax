@@ -469,7 +469,7 @@
             "script": "", 
             "trigger_id": 800751620, 
             "trigger_name": "AbilityEnds", 
-            "valid": true
+            "valid": false
         }, 
         "1435660289": {
             "action": [
@@ -879,7 +879,7 @@
             "script": "", 
             "trigger_id": 1435660289, 
             "trigger_name": "AbilityPercastEnds", 
-            "valid": true
+            "valid": false
         }, 
         "1973968899": {
             "action": [
@@ -1128,7 +1128,7 @@
             }, 
             "trigger_id": 1973968899, 
             "trigger_name": "UnitReceivesCommandEventHandler", 
-            "valid": true
+            "valid": false
         }, 
         "2033991684": {
             "action": [

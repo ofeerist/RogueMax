@@ -184,7 +184,7 @@
             "script": "", 
             "trigger_id": 396374018, 
             "trigger_name": "sub_trigger", 
-            "valid": true
+            "valid": false
         }, 
         "949952513": {
             "action": [
@@ -230,7 +230,7 @@
             "script": "", 
             "trigger_id": 949952513, 
             "trigger_name": "Ability Gained", 
-            "valid": true
+            "valid": false
         }, 
         "1086636035": {
             "action": [

@@ -6435,7 +6435,38 @@
                     ]
                 }
             ], 
-            "comment_str": {}, 
+            "comment_str": {
+                "1209155484": [
+                    1209155484, 
+                    "\u7b2c\u4e94\u6b21", 
+                    1008332802, 
+                    "action_type"
+                ], 
+                "1284543346": [
+                    1284543346, 
+                    "\u7b2c\u4e8c\u6b21", 
+                    1008332802, 
+                    "action_type"
+                ], 
+                "1832622603": [
+                    1832622603, 
+                    "\u7b2c\u4e00\u6b21", 
+                    1008332802, 
+                    "action_type"
+                ], 
+                "2006376544": [
+                    2006376544, 
+                    "\u7b2c\u56db\u6b21", 
+                    1008332802, 
+                    "action_type"
+                ], 
+                "2063264781": [
+                    2063264781, 
+                    "\u7b2c\u4e09\u6b21", 
+                    1008332802, 
+                    "action_type"
+                ]
+            }, 
             "condition": [], 
             "enabled": true, 
             "event": [
@@ -6451,7 +6482,7 @@
             "script": "", 
             "trigger_id": 1008332802, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668_2", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_version": "1.2", 

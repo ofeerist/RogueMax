@@ -2,7 +2,7 @@
     "append_team_num": {
         "__tuple__": true, 
         "items": [
-            true, 
+            false, 
             [
                 "Shift+0", 
                 "Shift+1", 
@@ -20,7 +20,7 @@
     "attack": {
         "__tuple__": true, 
         "items": [
-            true, 
+            false, 
             [
                 "A"
             ]
@@ -29,7 +29,7 @@
     "camera_down": {
         "__tuple__": true, 
         "items": [
-            true, 
+            false, 
             [
                 "Down"
             ]
@@ -38,7 +38,7 @@
     "camera_left": {
         "__tuple__": true, 
         "items": [
-            true, 
+            false, 
             [
                 "Left"
             ]
@@ -47,7 +47,7 @@
     "camera_right": {
         "__tuple__": true, 
         "items": [
-            true, 
+            false, 
             [
                 "Right"
             ]
@@ -56,7 +56,7 @@
     "camera_up": {
         "__tuple__": true, 
         "items": [
-            true, 
+            false, 
             [
                 "Up"
             ]
@@ -65,7 +65,7 @@
     "caution": {
         "__tuple__": true, 
         "items": [
-            true, 
+            false, 
             [
                 "H"
             ]
@@ -74,7 +74,7 @@
     "dest_common_atk_cmd": {
         "__tuple__": true, 
         "items": [
-            true, 
+            false, 
             [
                 "RIGHT_MOUSE_DEST_CA"
             ]
@@ -83,7 +83,7 @@
     "dest_pick_up": {
         "__tuple__": true, 
         "items": [
-            true, 
+            false, 
             [
                 "RIGHT_MOUSE_DEST_PICK"
             ]
@@ -110,7 +110,7 @@
     "item_pick_up": {
         "__tuple__": true, 
         "items": [
-            true, 
+            false, 
             [
                 "RIGHT_MOUSE_ITEM_PICK"
             ]
@@ -119,7 +119,7 @@
     "lock_cursor": {
         "__tuple__": true, 
         "items": [
-            true, 
+            false, 
             [
                 "F11"
             ]
@@ -128,7 +128,7 @@
     "move": {
         "__tuple__": true, 
         "items": [
-            true, 
+            false, 
             [
                 "M"
             ]
@@ -137,7 +137,7 @@
     "patrol": {
         "__tuple__": true, 
         "items": [
-            true, 
+            false, 
             [
                 "P"
             ]
@@ -146,7 +146,7 @@
     "select_same_type_unit": {
         "__tuple__": true, 
         "items": [
-            true, 
+            false, 
             [
                 "LEFT_MOUSE_SELECT_UNITS"
             ]
@@ -155,7 +155,7 @@
     "select_team_num": {
         "__tuple__": true, 
         "items": [
-            true, 
+            false, 
             [
                 "0", 
                 "1", 
@@ -173,7 +173,7 @@
     "select_unit": {
         "__tuple__": true, 
         "items": [
-            true, 
+            false, 
             [
                 "LEFT_MOUSE_SELECT_UNIT"
             ]
@@ -191,7 +191,7 @@
     "set_team_num": {
         "__tuple__": true, 
         "items": [
-            true, 
+            false, 
             [
                 "Ctrl+0", 
                 "Ctrl+1", 
@@ -209,7 +209,7 @@
     "stop": {
         "__tuple__": true, 
         "items": [
-            true, 
+            false, 
             [
                 "S"
             ]
@@ -218,7 +218,7 @@
     "unit_common_atk_cmd": {
         "__tuple__": true, 
         "items": [
-            true, 
+            false, 
             [
                 "RIGHT_MOUSE_UNIT_CA"
             ]
@@ -227,7 +227,7 @@
     "unit_follow_target": {
         "__tuple__": true, 
         "items": [
-            true, 
+            false, 
             [
                 "RIGHT_MOUSE_FOLLOW_TARGET"
             ]
@@ -236,7 +236,7 @@
     "unit_move_to_point": {
         "__tuple__": true, 
         "items": [
-            true, 
+            false, 
             [
                 "RIGHT_MOUSE_UNIT_MOVE"
             ]
@@ -245,7 +245,7 @@
     "watch_switch_individual_camera": {
         "__tuple__": true, 
         "items": [
-            true, 
+            false, 
             [
                 "Y"
             ]

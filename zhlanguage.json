@@ -15,6 +15,14 @@
         "key": "$player 1", 
         "value": "\u73a9\u5bb6 1"
     }, 
+    "$player 2": {
+        "key": "$player 2", 
+        "value": "\u73a9\u5bb6 2"
+    }, 
+    "$player 3": {
+        "key": "$player 3", 
+        "value": "\u73a9\u5bb6 3"
+    }, 
     "$player 31": {
         "key": "$player 31", 
         "value": "\u4e2d\u7acb \u654c\u5bf9"
@@ -22,5 +30,9 @@
     "$player 32": {
         "key": "$player 32", 
         "value": "\u4e2d\u7acb \u53cb\u5584"
+    }, 
+    "$player 4": {
+        "key": "$player 4", 
+        "value": "\u73a9\u5bb6 4"
     }
 }

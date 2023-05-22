@@ -128,7 +128,7 @@
             "script": "", 
             "trigger_id": 291020801, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
-            "valid": true
+            "valid": false
         }, 
         "1046036482": {
             "action": [
@@ -366,7 +366,7 @@
             }, 
             "trigger_id": 1264353283, 
             "trigger_name": "\u5b50\u89e6\u53d1\u5668", 
-            "valid": true
+            "valid": false
         }, 
         "2000850948": {
             "action": [

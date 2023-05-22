@@ -264,7 +264,7 @@
             "script": "", 
             "trigger_id": 661020674, 
             "trigger_name": "Action", 
-            "valid": true
+            "valid": false
         }, 
         "1684385793": {
             "action": [

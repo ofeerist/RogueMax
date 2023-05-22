@@ -1023,7 +1023,7 @@
             "script": "", 
             "trigger_id": 132780034, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668_2", 
-            "valid": true
+            "valid": false
         }, 
         "375521283": {
             "action": [
@@ -1084,7 +1084,7 @@
             "script": "", 
             "trigger_id": 375521283, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668_3", 
-            "valid": true
+            "valid": false
         }, 
         "759775234": {
             "action": [

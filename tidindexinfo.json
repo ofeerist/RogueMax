@@ -1,1 +1,32 @@
-{}
+{
+    "-1599216951": {
+        "editor_type": "ability_all", 
+        "index_type": "object_editor", 
+        "item_key": 134274770, 
+        "prop_key": "name"
+    }, 
+    "-1311762468": {
+        "editor_type": "ability_all", 
+        "index_type": "object_editor", 
+        "item_key": 134248778, 
+        "prop_key": "name"
+    }, 
+    "762450825": {
+        "editor_type": "ability_all", 
+        "index_type": "object_editor", 
+        "item_key": 134266558, 
+        "prop_key": "name"
+    }, 
+    "879034569": {
+        "editor_type": "sound_all", 
+        "index_type": "object_editor", 
+        "item_key": 134277209, 
+        "prop_key": "name"
+    }, 
+    "1810282861": {
+        "editor_type": "ability_all", 
+        "index_type": "object_editor", 
+        "item_key": 134245759, 
+        "prop_key": "name"
+    }
+}

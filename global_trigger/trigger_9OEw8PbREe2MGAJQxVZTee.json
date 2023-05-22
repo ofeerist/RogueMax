@@ -1,0 +1,357 @@
+{
+    "trigger_dict": {
+        "1214443594": {
+            "action": [
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100030, 
+                            "args_list": [
+                                [
+                                    "INTEGER", 
+                                    "oldState", 
+                                    "local"
+                                ]
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100006, 
+                                    "args_list": [
+                                        [
+                                            "UNIT_ENTITY", 
+                                            "unit", 
+                                            "local"
+                                        ]
+                                    ], 
+                                    "sub_type": 11
+                                }
+                            ], 
+                            "call_rt_index": 0, 
+                            "op_arg": [], 
+                            "op_arg_enable": [], 
+                            "sub_type": "1ef1edcff6d211edbac40250c5565379"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1214443594000025, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_ENTITY_KV", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [
+                                [
+                                    "UNIT_ENTITY", 
+                                    "unit", 
+                                    "local"
+                                ]
+                            ], 
+                            "sub_type": 11
+                        }, 
+                        {
+                            "arg_type": 100003, 
+                            "args_list": [
+                                "State"
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                [
+                                    "INTEGER", 
+                                    "state", 
+                                    "local"
+                                ]
+                            ], 
+                            "sub_type": 6
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1214443594000062, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SEND_CUSTOM_EVENT", 
+                    "args_list": [
+                        {
+                            "arg_type": 100238, 
+                            "args_list": [
+                                1243692175
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [
+                                [
+                                    "UNIT_ENTITY", 
+                                    "unit", 
+                                    "local"
+                                ]
+                            ], 
+                            "sub_type": 11
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                [
+                                    "INTEGER", 
+                                    "state", 
+                                    "local"
+                                ]
+                            ], 
+                            "sub_type": 6
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                [
+                                    "INTEGER", 
+                                    "oldState", 
+                                    "local"
+                                ]
+                            ], 
+                            "sub_type": 6
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1214443594000067, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "IF_THEN_ELSE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100021, 
+                            "args_list": [
+                                {
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "INTEGER", 
+                                                        "oldState", 
+                                                        "local"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 6
+                                        }, 
+                                        {
+                                            "arg_type": 100015, 
+                                            "args_list": [
+                                                "!="
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "INTEGER", 
+                                                        "state", 
+                                                        "local"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 6
+                                        }
+                                    ], 
+                                    "condition_type": "FLOAT_COMPARE", 
+                                    "element_id": 1214443594000057, 
+                                    "enable": true
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1214443594000051, 
+                    "enable": true
+                }
+            ], 
+            "comment_str": {}, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [], 
+            "func_des": "Set {unit} state as {state}", 
+            "func_id": "00e7a6e1f6d211ed989f0250c5565379", 
+            "func_name": "SetState", 
+            "func_param_list": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "unit", 
+                        true
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "state", 
+                        true
+                    ]
+                }
+            ], 
+            "group_id": "9OEw8PbREe2MGAJQxVZTee", 
+            "is_func": true, 
+            "is_official_func": false, 
+            "p_trigger_id": null, 
+            "script": "", 
+            "trigger_id": 1214443594, 
+            "trigger_name": "SetState", 
+            "valid": true
+        }, 
+        "2087067723": {
+            "action": [
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100030, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "INTEGER", 
+                                        "state", 
+                                        "local"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100006, 
+                                    "args_list": [
+                                        {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                "UNIT_ENTITY", 
+                                                "unit", 
+                                                "local"
+                                            ]
+                                        }
+                                    ], 
+                                    "sub_type": 11
+                                }, 
+                                {
+                                    "arg_type": 100003, 
+                                    "args_list": [
+                                        "State"
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": "GET_INTEGER_KV"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 2087067723000006, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": 400342, 
+                    "args_list": [
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "INTEGER", 
+                                        "state", 
+                                        "local"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 6
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 2087067723000003, 
+                    "enable": true
+                }
+            ], 
+            "comment_str": {}, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [], 
+            "func_des": "Get {unit} State", 
+            "func_id": "1ef1edcff6d211edbac40250c5565379", 
+            "func_name": "GetState", 
+            "func_param_list": [
+                [
+                    "unit", 
+                    true
+                ]
+            ], 
+            "func_return": true, 
+            "func_rtv_name_list": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "State", 
+                        "INTEGER"
+                    ]
+                }
+            ], 
+            "group_id": "9OEw8PbREe2MGAJQxVZTee", 
+            "is_func": true, 
+            "is_official_func": false, 
+            "p_trigger_id": null, 
+            "script": "", 
+            "trigger_id": 2087067723, 
+            "trigger_name": "GetState", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": {
+        "_function_": true, 
+        "_trigger_group_": true, 
+        "group": [
+            {
+                "__tuple__": true, 
+                "items": [
+                    1214443594, 
+                    "SetState"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    2087067723, 
+                    "GetState"
+                ]
+            }
+        ], 
+        "key": "9OEw8PbREe2MGAJQxVZTee", 
+        "name": "Player unit"
+    }
+}

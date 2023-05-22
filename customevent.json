@@ -1,4 +1,119 @@
 {
-    "conf": {}, 
-    "group_info": []
+    "conf": {
+        "1243692175": [
+            [
+                "Unit", 
+                100006
+            ], 
+            [
+                "NewState", 
+                100002
+            ], 
+            [
+                "OldState", 
+                100002
+            ]
+        ], 
+        "1346408745": [], 
+        "1469485963": [], 
+        "1497014435": [
+            [
+                "Player", 
+                100025
+            ], 
+            [
+                "NewValue", 
+                100004
+            ]
+        ], 
+        "1630989460": [
+            [
+                "Player", 
+                100025
+            ]
+        ], 
+        "1784883670": [
+            [
+                "Player", 
+                100025
+            ]
+        ], 
+        "1860960705": [
+            [
+                "Player", 
+                100025
+            ]
+        ], 
+        "2071667064": []
+    }, 
+    "group_info": [
+        {
+            "__tuple__": true, 
+            "items": [
+                1469485963, 
+                ""
+            ]
+        }, 
+        {
+            "group": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        1497014435, 
+                        "PlayerInputChanged"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        1243692175, 
+                        "StateChanged"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        1346408745, 
+                        "Force"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        1784883670, 
+                        "LMBPressed"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        1860960705, 
+                        "LMBReleased"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        1630989460, 
+                        "LMBHold"
+                    ]
+                }
+            ], 
+            "key": "iP9cwPZlEe2EEwJQxVZTed", 
+            "name": "Player"
+        }, 
+        {
+            "group": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        2071667064, 
+                        "OnFixedUpdate"
+                    ]
+                }
+            ], 
+            "key": "4wvyXvbDEe2ySgJQxVZTec", 
+            "name": "Engine"
+        }
+    ]
 }

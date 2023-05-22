@@ -600,7 +600,20 @@
                     "enable": true
                 }
             ], 
-            "comment_str": {}, 
+            "comment_str": {
+                "1293119788": [
+                    1293119788, 
+                    "\u88ab\u52a8\u51b7\u5374", 
+                    803831812, 
+                    "action_type"
+                ], 
+                "2119265189": [
+                    2119265189, 
+                    "\u53d7\u5230\u4f24\u5bb3\u8d85\u8fc7600\uff0c\u4e14\u88ab\u52a8\u672a\u51b7\u5374", 
+                    803831812, 
+                    "condition_type"
+                ]
+            }, 
             "condition": [], 
             "enabled": false, 
             "event": [
@@ -636,7 +649,7 @@
             "script": "", 
             "trigger_id": 803831812, 
             "trigger_name": "\u5b50\u89e6\u53d1\u5668_5", 
-            "valid": true
+            "valid": false
         }, 
         "1172942852": {
             "action": [
@@ -1008,7 +1021,14 @@
                     "enable": true
                 }
             ], 
-            "comment_str": {}, 
+            "comment_str": {
+                "1247110496": [
+                    1247110496, 
+                    "\u9020\u6210\u4f24\u5bb3\u8d85\u8fc7600\uff0c\u4e14\u88ab\u52a8\u672a\u51b7\u5374", 
+                    1172942852, 
+                    "condition_type"
+                ]
+            }, 
             "condition": [], 
             "enabled": false, 
             "event": [
@@ -1077,7 +1097,7 @@
             }, 
             "trigger_id": 1172942852, 
             "trigger_name": "\u5b50\u89e6\u53d1\u5668", 
-            "valid": true
+            "valid": false
         }, 
         "1537617921": {
             "action": [
@@ -1124,7 +1144,7 @@
             "script": "", 
             "trigger_id": 1537617921, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_version": "1.2", 

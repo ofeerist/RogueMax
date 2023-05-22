@@ -15,6 +15,14 @@
         "key": "$player 1", 
         "value": " 1"
     }, 
+    "$player 2": {
+        "key": "$player 2", 
+        "value": " 2"
+    }, 
+    "$player 3": {
+        "key": "$player 3", 
+        "value": " 3"
+    }, 
     "$player 31": {
         "key": "$player 31", 
         "value": ""
@@ -22,5 +30,9 @@
     "$player 32": {
         "key": "$player 32", 
         "value": ""
+    }, 
+    "$player 4": {
+        "key": "$player 4", 
+        "value": " 4"
     }
 }

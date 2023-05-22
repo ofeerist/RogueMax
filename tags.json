@@ -1,3 +1,9 @@
 {
-    "editor_unit": []
+    "ability_all": [], 
+    "editor_decoration": [], 
+    "editor_item": [], 
+    "editor_unit": [
+        "AbilityReady"
+    ], 
+    "modifier_all": []
 }

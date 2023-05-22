@@ -83,7 +83,7 @@
             "script": "", 
             "trigger_id": 847253505, 
             "trigger_name": "Gain Buff", 
-            "valid": true
+            "valid": false
         }, 
         "1289887746": {
             "action": [
@@ -167,7 +167,7 @@
             "script": "", 
             "trigger_id": 1289887746, 
             "trigger_name": "Lose Buff", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_version": "1.2", 

@@ -101,7 +101,7 @@
             "script": "", 
             "trigger_id": 435712001, 
             "trigger_name": "Gain Modifier", 
-            "valid": true
+            "valid": false
         }, 
         "1694318594": {
             "action": [
@@ -203,7 +203,7 @@
             "script": "", 
             "trigger_id": 1694318594, 
             "trigger_name": "Lose Modifier", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_version": "1.2", 

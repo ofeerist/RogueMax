@@ -606,7 +606,7 @@
             "script": "", 
             "trigger_id": 1112305666, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668_2", 
-            "valid": true
+            "valid": false
         }, 
         "1565265921": {
             "action": [

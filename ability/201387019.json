@@ -471,7 +471,7 @@
             "script": "", 
             "trigger_id": 1264992259, 
             "trigger_name": "AbilityPrecastEnds", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_version": "1.2", 

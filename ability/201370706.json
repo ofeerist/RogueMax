@@ -399,7 +399,7 @@
             "script": "", 
             "trigger_id": 565727236, 
             "trigger_name": "AbilityPrecastEnds", 
-            "valid": true
+            "valid": false
         }, 
         "1746464770": {
             "action": [
@@ -540,7 +540,7 @@
             "script": "", 
             "trigger_id": 1746464770, 
             "trigger_name": "AbilityEnds", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_version": "1.2", 

@@ -101,7 +101,7 @@
             "script": "", 
             "trigger_id": 201916417, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
-            "valid": true
+            "valid": false
         }, 
         "247791623": {
             "action": [
@@ -288,7 +288,7 @@
             }, 
             "trigger_id": 247791623, 
             "trigger_name": "\u78d0\u77f3\u4e00\u89d2\u4e09\u9636\u88ab\u52a8_2", 
-            "valid": true
+            "valid": false
         }, 
         "1818136581": {
             "action": [

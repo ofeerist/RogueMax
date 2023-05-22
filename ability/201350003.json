@@ -65,7 +65,7 @@
             "script": "", 
             "trigger_id": 326660100, 
             "trigger_name": "Ability gained", 
-            "valid": true
+            "valid": false
         }, 
         "1434034178": {
             "action": [
@@ -213,7 +213,7 @@
             "script": "", 
             "trigger_id": 1434034178, 
             "trigger_name": "The_child_trigger", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_version": "1.2", 

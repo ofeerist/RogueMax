@@ -1,0 +1,2017 @@
+{
+    "trigger_dict": {
+        "217215043": {
+            "action": [
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100030, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "INTEGER", 
+                                        "i", 
+                                        "local"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100025, 
+                                    "args_list": [], 
+                                    "sub_type": "TRIGGER_PLAYER"
+                                }
+                            ], 
+                            "sub_type": "PLAYER_ID_NUMBER"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 217215043000011, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100028, 
+                            "args_list": [
+                                [
+                                    "POINT", 
+                                    "InputDirection"
+                                ], 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                "INTEGER", 
+                                                "i", 
+                                                "local"
+                                            ]
+                                        }
+                                    ], 
+                                    "sub_type": 6
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100004, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100004, 
+                                    "args_list": [
+                                        {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                "POINT", 
+                                                "InputDirection"
+                                            ]
+                                        }, 
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "INTEGER", 
+                                                        "i", 
+                                                        "local"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 6
+                                        }
+                                    ], 
+                                    "sub_type": 19
+                                }, 
+                                {
+                                    "arg_type": 100004, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100000, 
+                                            "args_list": [
+                                                0.0
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100000, 
+                                            "args_list": [
+                                                -1.0
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "sub_type": "FLOAT_TO_POINT"
+                                }, 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        1
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "call_rt_index": 0, 
+                            "op_arg": [], 
+                            "op_arg_enable": [], 
+                            "sub_type": "936ac7e1c0d111edbcf60250c5565379"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1792868407000020, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100028, 
+                            "args_list": [
+                                [
+                                    "POINT", 
+                                    "InputDirection"
+                                ], 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        [
+                                            "INTEGER", 
+                                            "i", 
+                                            "local"
+                                        ]
+                                    ], 
+                                    "sub_type": 6
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100004, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100004, 
+                                    "args_list": [
+                                        {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                "POINT", 
+                                                "InputDirection"
+                                            ]
+                                        }, 
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "INTEGER", 
+                                                        "i", 
+                                                        "local"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 6
+                                        }
+                                    ], 
+                                    "sub_type": 19
+                                }, 
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        1.0
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        -1.0
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "call_rt_index": 0, 
+                            "op_arg": [], 
+                            "op_arg_enable": [], 
+                            "sub_type": "7d7f910ff66711ed8a310250c5565379"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 217215043000021, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SEND_CUSTOM_EVENT", 
+                    "args_list": [
+                        {
+                            "arg_type": 100238, 
+                            "args_list": [
+                                1497014435
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [], 
+                            "sub_type": "TRIGGER_PLAYER"
+                        }, 
+                        {
+                            "arg_type": 100004, 
+                            "args_list": [
+                                [
+                                    "POINT", 
+                                    "InputDirection"
+                                ], 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        [
+                                            "INTEGER", 
+                                            "i", 
+                                            "local"
+                                        ]
+                                    ], 
+                                    "sub_type": 6
+                                }
+                            ], 
+                            "sub_type": 19
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 872386628000012, 
+                    "enable": true
+                }
+            ], 
+            "comment_str": {}, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 200220, 
+                            "args_list": [
+                                17
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 217215043000001, 
+                    "enable": true, 
+                    "event_type": "KEYBOARD_KEY_DOWN_EVENT"
+                }, 
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 200220, 
+                            "args_list": [
+                                31
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 872386628000001, 
+                    "enable": true, 
+                    "event_type": "KEYBOARD_KEY_UP_EVENT"
+                }
+            ], 
+            "group_id": "IEUrwPZkEe2r2AJQxVZTed", 
+            "p_trigger_id": null, 
+            "script": "", 
+            "trigger_id": 217215043, 
+            "trigger_name": "WPress", 
+            "valid": true
+        }, 
+        "462356557": {
+            "action": [
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100030, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "PLAYER", 
+                                        "player", 
+                                        "local"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [], 
+                            "sub_type": "TRIGGER_PLAYER"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 462356557000008, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100030, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "INTEGER", 
+                                        "i", 
+                                        "local"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100025, 
+                                    "args_list": [
+                                        {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                "PLAYER", 
+                                                "player", 
+                                                "local"
+                                            ]
+                                        }
+                                    ], 
+                                    "sub_type": "VARIABLE"
+                                }
+                            ], 
+                            "sub_type": "PLAYER_ID_NUMBER"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 462356557000010, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100028, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "FLOAT", 
+                                        "LastLMBPress"
+                                    ]
+                                }, 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                "INTEGER", 
+                                                "i", 
+                                                "local"
+                                            ]
+                                        }
+                                    ], 
+                                    "sub_type": 6
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [], 
+                            "sub_type": "CUR_GAME_TIME"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 462356557000023, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100028, 
+                            "args_list": [
+                                [
+                                    "FLOAT", 
+                                    "LMBDiff"
+                                ], 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        [
+                                            "INTEGER", 
+                                            "i", 
+                                            "local"
+                                        ]
+                                    ], 
+                                    "sub_type": 6
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                0.0
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 462356557000025, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SEND_CUSTOM_EVENT", 
+                    "args_list": [
+                        {
+                            "arg_type": 100238, 
+                            "args_list": [
+                                1784883670
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [
+                                [
+                                    "PLAYER", 
+                                    "player", 
+                                    "local"
+                                ]
+                            ], 
+                            "sub_type": "VARIABLE"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1922117710000026, 
+                    "enable": true
+                }, 
+                1922117710
+            ], 
+            "comment_str": {}, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 200221, 
+                            "args_list": [
+                                240
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 462356557000003, 
+                    "enable": true, 
+                    "event_type": "MOUSE_KEY_DOWN_EVENT"
+                }
+            ], 
+            "group_id": "IEUrwPZkEe2r2AJQxVZTed", 
+            "p_trigger_id": null, 
+            "script": "", 
+            "trigger_id": 462356557, 
+            "trigger_name": "LMB", 
+            "valid": true
+        }, 
+        "872386628": {
+            "action": [
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100030, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "INTEGER", 
+                                        "i", 
+                                        "local"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100025, 
+                                    "args_list": [], 
+                                    "sub_type": "TRIGGER_PLAYER"
+                                }
+                            ], 
+                            "sub_type": "PLAYER_ID_NUMBER"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 872386628000002, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100028, 
+                            "args_list": [
+                                [
+                                    "POINT", 
+                                    "InputDirection"
+                                ], 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                "INTEGER", 
+                                                "i", 
+                                                "local"
+                                            ]
+                                        }
+                                    ], 
+                                    "sub_type": 6
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100004, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100004, 
+                                    "args_list": [
+                                        [
+                                            "POINT", 
+                                            "InputDirection"
+                                        ], 
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "INTEGER", 
+                                                        "i", 
+                                                        "local"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 6
+                                        }
+                                    ], 
+                                    "sub_type": 19
+                                }, 
+                                {
+                                    "arg_type": 100004, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100000, 
+                                            "args_list": [
+                                                0.0
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100000, 
+                                            "args_list": [
+                                                1.0
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "sub_type": "FLOAT_TO_POINT"
+                                }, 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        1
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "call_rt_index": 0, 
+                            "op_arg": [], 
+                            "op_arg_enable": [], 
+                            "sub_type": "936ac7e1c0d111edbcf60250c5565379"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 872386628000003, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100028, 
+                            "args_list": [
+                                [
+                                    "POINT", 
+                                    "InputDirection"
+                                ], 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        [
+                                            "INTEGER", 
+                                            "i", 
+                                            "local"
+                                        ]
+                                    ], 
+                                    "sub_type": 6
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100004, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100004, 
+                                    "args_list": [
+                                        [
+                                            "POINT", 
+                                            "InputDirection"
+                                        ], 
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                [
+                                                    "INTEGER", 
+                                                    "i", 
+                                                    "local"
+                                                ]
+                                            ], 
+                                            "sub_type": 6
+                                        }
+                                    ], 
+                                    "sub_type": 19
+                                }, 
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        1.0
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        -1.0
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "call_rt_index": 0, 
+                            "op_arg": [], 
+                            "op_arg_enable": [], 
+                            "sub_type": "7d7f910ff66711ed8a310250c5565379"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 217215043000021, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SEND_CUSTOM_EVENT", 
+                    "args_list": [
+                        {
+                            "arg_type": 100238, 
+                            "args_list": [
+                                1497014435
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [], 
+                            "sub_type": "TRIGGER_PLAYER"
+                        }, 
+                        {
+                            "arg_type": 100004, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "POINT", 
+                                        "InputDirection"
+                                    ]
+                                }, 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                "INTEGER", 
+                                                "i", 
+                                                "local"
+                                            ]
+                                        }
+                                    ], 
+                                    "sub_type": 6
+                                }
+                            ], 
+                            "sub_type": 19
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 872386628000012, 
+                    "enable": true
+                }
+            ], 
+            "comment_str": {}, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 200220, 
+                            "args_list": [
+                                31
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 217215043000001, 
+                    "enable": true, 
+                    "event_type": "KEYBOARD_KEY_DOWN_EVENT"
+                }, 
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 200220, 
+                            "args_list": [
+                                17
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 872386628000001, 
+                    "enable": true, 
+                    "event_type": "KEYBOARD_KEY_UP_EVENT"
+                }
+            ], 
+            "group_id": "IEUrwPZkEe2r2AJQxVZTed", 
+            "p_trigger_id": null, 
+            "script": "", 
+            "trigger_id": 872386628, 
+            "trigger_name": "SPress", 
+            "valid": true
+        }, 
+        "1202667599": {
+            "action": [
+                {
+                    "action_type": "FOR_INT_DO_ACTION", 
+                    "args_list": [
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "INTEGER", 
+                                        "i", 
+                                        "local"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 6
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100027, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100020, 
+                                            "args_list": [
+                                                1
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "sub_type": "TEAM_PLAYER"
+                                }
+                            ], 
+                            "sub_type": "PLAYER_T"
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [
+                                {
+                                    "action_type": "IF_THEN_ELSE", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100021, 
+                                            "args_list": [
+                                                {
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100180, 
+                                                            "args_list": [
+                                                                {
+                                                                    "arg_type": 100025, 
+                                                                    "args_list": [
+                                                                        {
+                                                                            "arg_type": 100002, 
+                                                                            "args_list": [
+                                                                                {
+                                                                                    "__tuple__": true, 
+                                                                                    "items": [
+                                                                                        "INTEGER", 
+                                                                                        "i", 
+                                                                                        "local"
+                                                                                    ]
+                                                                                }
+                                                                            ], 
+                                                                            "sub_type": 6
+                                                                        }
+                                                                    ], 
+                                                                    "sub_type": "GET_ROLE_BY_INT"
+                                                                }
+                                                            ], 
+                                                            "sub_type": "GET_ROLE_STATUS"
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100035, 
+                                                            "args_list": [
+                                                                "=="
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100180, 
+                                                            "args_list": [
+                                                                1
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }
+                                                    ], 
+                                                    "condition_type": "PLAYER_STATE_COMPARE", 
+                                                    "element_id": 1202667599000047, 
+                                                    "enable": true
+                                                }
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100022, 
+                                            "args_list": [
+                                                {
+                                                    "action_type": "IF_THEN_ELSE", 
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100021, 
+                                                            "args_list": [
+                                                                {
+                                                                    "args_list": [
+                                                                        {
+                                                                            "arg_type": 100000, 
+                                                                            "args_list": [
+                                                                                {
+                                                                                    "__tuple__": true, 
+                                                                                    "items": [
+                                                                                        "FLOAT", 
+                                                                                        "LastLMBPress"
+                                                                                    ]
+                                                                                }, 
+                                                                                {
+                                                                                    "arg_type": 100002, 
+                                                                                    "args_list": [
+                                                                                        {
+                                                                                            "__tuple__": true, 
+                                                                                            "items": [
+                                                                                                "INTEGER", 
+                                                                                                "i", 
+                                                                                                "local"
+                                                                                            ]
+                                                                                        }
+                                                                                    ], 
+                                                                                    "sub_type": 6
+                                                                                }
+                                                                            ], 
+                                                                            "sub_type": 2
+                                                                        }, 
+                                                                        {
+                                                                            "arg_type": 100015, 
+                                                                            "args_list": [
+                                                                                ">="
+                                                                            ], 
+                                                                            "sub_type": 1
+                                                                        }, 
+                                                                        {
+                                                                            "arg_type": 100000, 
+                                                                            "args_list": [
+                                                                                [
+                                                                                    "FLOAT", 
+                                                                                    "LastLMBRelease"
+                                                                                ], 
+                                                                                {
+                                                                                    "arg_type": 100002, 
+                                                                                    "args_list": [
+                                                                                        {
+                                                                                            "__tuple__": true, 
+                                                                                            "items": [
+                                                                                                "INTEGER", 
+                                                                                                "i", 
+                                                                                                "local"
+                                                                                            ]
+                                                                                        }
+                                                                                    ], 
+                                                                                    "sub_type": 6
+                                                                                }
+                                                                            ], 
+                                                                            "sub_type": 2
+                                                                        }
+                                                                    ], 
+                                                                    "condition_type": "FLOAT_COMPARE", 
+                                                                    "element_id": 1202667599000025, 
+                                                                    "enable": true
+                                                                }
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100022, 
+                                                            "args_list": [
+                                                                {
+                                                                    "action_type": "SET_VARIABLE", 
+                                                                    "args_list": [
+                                                                        {
+                                                                            "arg_type": 100028, 
+                                                                            "args_list": [
+                                                                                {
+                                                                                    "__tuple__": true, 
+                                                                                    "items": [
+                                                                                        "FLOAT", 
+                                                                                        "LMBDiff"
+                                                                                    ]
+                                                                                }, 
+                                                                                {
+                                                                                    "arg_type": 100002, 
+                                                                                    "args_list": [
+                                                                                        {
+                                                                                            "__tuple__": true, 
+                                                                                            "items": [
+                                                                                                "INTEGER", 
+                                                                                                "i", 
+                                                                                                "local"
+                                                                                            ]
+                                                                                        }
+                                                                                    ], 
+                                                                                    "sub_type": 6
+                                                                                }
+                                                                            ], 
+                                                                            "sub_type": 1
+                                                                        }, 
+                                                                        {
+                                                                            "arg_type": 100000, 
+                                                                            "args_list": [
+                                                                                {
+                                                                                    "arg_type": 100000, 
+                                                                                    "args_list": [
+                                                                                        {
+                                                                                            "__tuple__": true, 
+                                                                                            "items": [
+                                                                                                "FLOAT", 
+                                                                                                "LMBDiff"
+                                                                                            ]
+                                                                                        }, 
+                                                                                        {
+                                                                                            "arg_type": 100002, 
+                                                                                            "args_list": [
+                                                                                                {
+                                                                                                    "__tuple__": true, 
+                                                                                                    "items": [
+                                                                                                        "INTEGER", 
+                                                                                                        "i", 
+                                                                                                        "local"
+                                                                                                    ]
+                                                                                                }
+                                                                                            ], 
+                                                                                            "sub_type": 6
+                                                                                        }
+                                                                                    ], 
+                                                                                    "sub_type": 2
+                                                                                }, 
+                                                                                {
+                                                                                    "arg_type": 100017, 
+                                                                                    "args_list": [
+                                                                                        "+"
+                                                                                    ], 
+                                                                                    "sub_type": 1
+                                                                                }, 
+                                                                                {
+                                                                                    "arg_type": 100000, 
+                                                                                    "args_list": [
+                                                                                        {
+                                                                                            "__tuple__": true, 
+                                                                                            "items": [
+                                                                                                "FLOAT", 
+                                                                                                "DeltaTime"
+                                                                                            ]
+                                                                                        }
+                                                                                    ], 
+                                                                                    "sub_type": 2
+                                                                                }
+                                                                            ], 
+                                                                            "sub_type": "ARITHMETIC_OPERATION"
+                                                                        }
+                                                                    ], 
+                                                                    "bp": false, 
+                                                                    "element_id": 462356557000023, 
+                                                                    "enable": true
+                                                                }, 
+                                                                {
+                                                                    "action_type": "IF_THEN_ELSE", 
+                                                                    "args_list": [
+                                                                        {
+                                                                            "arg_type": 100021, 
+                                                                            "args_list": [
+                                                                                {
+                                                                                    "args_list": [
+                                                                                        {
+                                                                                            "arg_type": 100000, 
+                                                                                            "args_list": [
+                                                                                                {
+                                                                                                    "__tuple__": true, 
+                                                                                                    "items": [
+                                                                                                        "FLOAT", 
+                                                                                                        "LMBDiff"
+                                                                                                    ]
+                                                                                                }, 
+                                                                                                {
+                                                                                                    "arg_type": 100002, 
+                                                                                                    "args_list": [
+                                                                                                        [
+                                                                                                            "INTEGER", 
+                                                                                                            "i", 
+                                                                                                            "local"
+                                                                                                        ]
+                                                                                                    ], 
+                                                                                                    "sub_type": 6
+                                                                                                }
+                                                                                            ], 
+                                                                                            "sub_type": 2
+                                                                                        }, 
+                                                                                        {
+                                                                                            "arg_type": 100015, 
+                                                                                            "args_list": [
+                                                                                                ">"
+                                                                                            ], 
+                                                                                            "sub_type": 1
+                                                                                        }, 
+                                                                                        {
+                                                                                            "arg_type": 100000, 
+                                                                                            "args_list": [
+                                                                                                0.5
+                                                                                            ], 
+                                                                                            "sub_type": 1
+                                                                                        }
+                                                                                    ], 
+                                                                                    "condition_type": "FLOAT_COMPARE", 
+                                                                                    "element_id": 1202667599000073, 
+                                                                                    "enable": true
+                                                                                }
+                                                                            ], 
+                                                                            "sub_type": 1
+                                                                        }, 
+                                                                        {
+                                                                            "arg_type": 100022, 
+                                                                            "args_list": [
+                                                                                {
+                                                                                    "action_type": "SEND_CUSTOM_EVENT", 
+                                                                                    "args_list": [
+                                                                                        {
+                                                                                            "arg_type": 100238, 
+                                                                                            "args_list": [
+                                                                                                1630989460
+                                                                                            ], 
+                                                                                            "sub_type": 1
+                                                                                        }, 
+                                                                                        {
+                                                                                            "arg_type": 100025, 
+                                                                                            "args_list": [
+                                                                                                {
+                                                                                                    "arg_type": 100002, 
+                                                                                                    "args_list": [
+                                                                                                        {
+                                                                                                            "__tuple__": true, 
+                                                                                                            "items": [
+                                                                                                                "INTEGER", 
+                                                                                                                "i", 
+                                                                                                                "local"
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ], 
+                                                                                                    "sub_type": 6
+                                                                                                }
+                                                                                            ], 
+                                                                                            "sub_type": "GET_ROLE_BY_INT"
+                                                                                        }
+                                                                                    ], 
+                                                                                    "bp": false, 
+                                                                                    "element_id": 1922117710000026, 
+                                                                                    "enable": true
+                                                                                }, 
+                                                                                {
+                                                                                    "action_type": "SET_VARIABLE", 
+                                                                                    "args_list": [
+                                                                                        {
+                                                                                            "arg_type": 100028, 
+                                                                                            "args_list": [
+                                                                                                [
+                                                                                                    "FLOAT", 
+                                                                                                    "LastLMBRelease"
+                                                                                                ], 
+                                                                                                {
+                                                                                                    "arg_type": 100002, 
+                                                                                                    "args_list": [
+                                                                                                        {
+                                                                                                            "__tuple__": true, 
+                                                                                                            "items": [
+                                                                                                                "INTEGER", 
+                                                                                                                "i", 
+                                                                                                                "local"
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ], 
+                                                                                                    "sub_type": 6
+                                                                                                }
+                                                                                            ], 
+                                                                                            "sub_type": 1
+                                                                                        }, 
+                                                                                        {
+                                                                                            "arg_type": 100000, 
+                                                                                            "args_list": [
+                                                                                                9999999.0
+                                                                                            ], 
+                                                                                            "sub_type": 1
+                                                                                        }
+                                                                                    ], 
+                                                                                    "bp": false, 
+                                                                                    "element_id": 1202667599000083, 
+                                                                                    "enable": true
+                                                                                }
+                                                                            ], 
+                                                                            "sub_type": 1
+                                                                        }, 
+                                                                        {
+                                                                            "arg_type": 100022, 
+                                                                            "args_list": [], 
+                                                                            "sub_type": 1
+                                                                        }
+                                                                    ], 
+                                                                    "bp": false, 
+                                                                    "element_id": 1202667599000067, 
+                                                                    "enable": true
+                                                                }
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100022, 
+                                                            "args_list": [], 
+                                                            "sub_type": 1
+                                                        }
+                                                    ], 
+                                                    "bp": false, 
+                                                    "element_id": 1202667599000019, 
+                                                    "enable": true
+                                                }
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100022, 
+                                            "args_list": [], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 1202667599000045, 
+                                    "enable": true
+                                }
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1202667599000042, 
+                    "enable": true
+                }
+            ], 
+            "comment_str": {}, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 100238, 
+                            "args_list": [
+                                2071667064
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 1202667599000001, 
+                    "enable": true, 
+                    "event_type": "RECEIVE_CUSTOM_EVENT"
+                }
+            ], 
+            "group_id": "IEUrwPZkEe2r2AJQxVZTed", 
+            "p_trigger_id": null, 
+            "script": "", 
+            "trigger_id": 1202667599, 
+            "trigger_name": "LMBTimer", 
+            "valid": true
+        }, 
+        "1310662726": {
+            "action": [
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100030, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "INTEGER", 
+                                        "i", 
+                                        "local"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100025, 
+                                    "args_list": [], 
+                                    "sub_type": "TRIGGER_PLAYER"
+                                }
+                            ], 
+                            "sub_type": "PLAYER_ID_NUMBER"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1310662726000003, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100028, 
+                            "args_list": [
+                                [
+                                    "POINT", 
+                                    "InputDirection"
+                                ], 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                "INTEGER", 
+                                                "i", 
+                                                "local"
+                                            ]
+                                        }
+                                    ], 
+                                    "sub_type": 6
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100004, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100004, 
+                                    "args_list": [
+                                        [
+                                            "POINT", 
+                                            "InputDirection"
+                                        ], 
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "INTEGER", 
+                                                        "i", 
+                                                        "local"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 6
+                                        }
+                                    ], 
+                                    "sub_type": 19
+                                }, 
+                                {
+                                    "arg_type": 100004, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100000, 
+                                            "args_list": [
+                                                -1.0
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100000, 
+                                            "args_list": [
+                                                0.0
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "sub_type": "FLOAT_TO_POINT"
+                                }, 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        1
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "call_rt_index": 0, 
+                            "op_arg": [], 
+                            "op_arg_enable": [], 
+                            "sub_type": "936ac7e1c0d111edbcf60250c5565379"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1310662726000004, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100028, 
+                            "args_list": [
+                                [
+                                    "POINT", 
+                                    "InputDirection"
+                                ], 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        [
+                                            "INTEGER", 
+                                            "i", 
+                                            "local"
+                                        ]
+                                    ], 
+                                    "sub_type": 6
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100004, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100004, 
+                                    "args_list": [
+                                        [
+                                            "POINT", 
+                                            "InputDirection"
+                                        ], 
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                [
+                                                    "INTEGER", 
+                                                    "i", 
+                                                    "local"
+                                                ]
+                                            ], 
+                                            "sub_type": 6
+                                        }
+                                    ], 
+                                    "sub_type": 19
+                                }, 
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        1.0
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        -1.0
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "call_rt_index": 0, 
+                            "op_arg": [], 
+                            "op_arg_enable": [], 
+                            "sub_type": "7d7f910ff66711ed8a310250c5565379"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 217215043000021, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SEND_CUSTOM_EVENT", 
+                    "args_list": [
+                        {
+                            "arg_type": 100238, 
+                            "args_list": [
+                                1497014435
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [], 
+                            "sub_type": "TRIGGER_PLAYER"
+                        }, 
+                        {
+                            "arg_type": 100004, 
+                            "args_list": [
+                                [
+                                    "POINT", 
+                                    "InputDirection"
+                                ], 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                "INTEGER", 
+                                                "i", 
+                                                "local"
+                                            ]
+                                        }
+                                    ], 
+                                    "sub_type": 6
+                                }
+                            ], 
+                            "sub_type": 19
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1310662726000005, 
+                    "enable": true
+                }
+            ], 
+            "comment_str": {}, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 200220, 
+                            "args_list": [
+                                30
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 1310662726000001, 
+                    "enable": true, 
+                    "event_type": "KEYBOARD_KEY_DOWN_EVENT"
+                }, 
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 200220, 
+                            "args_list": [
+                                32
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 1310662726000002, 
+                    "enable": true, 
+                    "event_type": "KEYBOARD_KEY_UP_EVENT"
+                }
+            ], 
+            "group_id": "IEUrwPZkEe2r2AJQxVZTed", 
+            "p_trigger_id": null, 
+            "script": "", 
+            "trigger_id": 1310662726, 
+            "trigger_name": "APress", 
+            "valid": true
+        }, 
+        "1763647557": {
+            "action": [
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100030, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "INTEGER", 
+                                        "i", 
+                                        "local"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100025, 
+                                    "args_list": [], 
+                                    "sub_type": "TRIGGER_PLAYER"
+                                }
+                            ], 
+                            "sub_type": "PLAYER_ID_NUMBER"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1763647557000003, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100028, 
+                            "args_list": [
+                                [
+                                    "POINT", 
+                                    "InputDirection"
+                                ], 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                "INTEGER", 
+                                                "i", 
+                                                "local"
+                                            ]
+                                        }
+                                    ], 
+                                    "sub_type": 6
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100004, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100004, 
+                                    "args_list": [
+                                        [
+                                            "POINT", 
+                                            "InputDirection"
+                                        ], 
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "INTEGER", 
+                                                        "i", 
+                                                        "local"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 6
+                                        }
+                                    ], 
+                                    "sub_type": 19
+                                }, 
+                                {
+                                    "arg_type": 100004, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100000, 
+                                            "args_list": [
+                                                1.0
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100000, 
+                                            "args_list": [
+                                                0.0
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "sub_type": "FLOAT_TO_POINT"
+                                }, 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        1
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "call_rt_index": 0, 
+                            "op_arg": [], 
+                            "op_arg_enable": [], 
+                            "sub_type": "936ac7e1c0d111edbcf60250c5565379"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1763647557000004, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100028, 
+                            "args_list": [
+                                [
+                                    "POINT", 
+                                    "InputDirection"
+                                ], 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        [
+                                            "INTEGER", 
+                                            "i", 
+                                            "local"
+                                        ]
+                                    ], 
+                                    "sub_type": 6
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100004, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100004, 
+                                    "args_list": [
+                                        [
+                                            "POINT", 
+                                            "InputDirection"
+                                        ], 
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                [
+                                                    "INTEGER", 
+                                                    "i", 
+                                                    "local"
+                                                ]
+                                            ], 
+                                            "sub_type": 6
+                                        }
+                                    ], 
+                                    "sub_type": 19
+                                }, 
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        1.0
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        -1.0
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "call_rt_index": 0, 
+                            "op_arg": [], 
+                            "op_arg_enable": [], 
+                            "sub_type": "7d7f910ff66711ed8a310250c5565379"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 217215043000021, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SEND_CUSTOM_EVENT", 
+                    "args_list": [
+                        {
+                            "arg_type": 100238, 
+                            "args_list": [
+                                1497014435
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [], 
+                            "sub_type": "TRIGGER_PLAYER"
+                        }, 
+                        {
+                            "arg_type": 100004, 
+                            "args_list": [
+                                [
+                                    "POINT", 
+                                    "InputDirection"
+                                ], 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                "INTEGER", 
+                                                "i", 
+                                                "local"
+                                            ]
+                                        }
+                                    ], 
+                                    "sub_type": 6
+                                }
+                            ], 
+                            "sub_type": 19
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1763647557000005, 
+                    "enable": true
+                }
+            ], 
+            "comment_str": {}, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 200220, 
+                            "args_list": [
+                                32
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 1763647557000001, 
+                    "enable": true, 
+                    "event_type": "KEYBOARD_KEY_DOWN_EVENT"
+                }, 
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 200220, 
+                            "args_list": [
+                                30
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 1763647557000002, 
+                    "enable": true, 
+                    "event_type": "KEYBOARD_KEY_UP_EVENT"
+                }
+            ], 
+            "group_id": "IEUrwPZkEe2r2AJQxVZTed", 
+            "p_trigger_id": null, 
+            "script": "", 
+            "trigger_id": 1763647557, 
+            "trigger_name": "DPress", 
+            "valid": true
+        }, 
+        "1792868407": {
+            "action": [
+                {
+                    "action_type": "FOR_INT_DO_ACTION", 
+                    "args_list": [
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "INTEGER", 
+                                        "i", 
+                                        "local"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 6
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100027, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100020, 
+                                            "args_list": [
+                                                1
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "sub_type": "TEAM_PLAYER"
+                                }
+                            ], 
+                            "sub_type": "PLAYER_T"
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [
+                                {
+                                    "action_type": "SET_VARIABLE", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100028, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "POINT", 
+                                                        "InputDirection"
+                                                    ]
+                                                }, 
+                                                {
+                                                    "arg_type": 100002, 
+                                                    "args_list": [
+                                                        {
+                                                            "__tuple__": true, 
+                                                            "items": [
+                                                                "INTEGER", 
+                                                                "i", 
+                                                                "local"
+                                                            ]
+                                                        }
+                                                    ], 
+                                                    "sub_type": 6
+                                                }
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100004, 
+                                            "args_list": [
+                                                {
+                                                    "arg_type": 100000, 
+                                                    "args_list": [
+                                                        0.0
+                                                    ], 
+                                                    "sub_type": 1
+                                                }, 
+                                                {
+                                                    "arg_type": 100000, 
+                                                    "args_list": [
+                                                        0.0
+                                                    ], 
+                                                    "sub_type": 1
+                                                }
+                                            ], 
+                                            "sub_type": "FLOAT_TO_POINT"
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 1792868407000020, 
+                                    "enable": true
+                                }
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1792868407000015, 
+                    "enable": true
+                }
+            ], 
+            "comment_str": {}, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 1792868407000002, 
+                    "enable": true, 
+                    "event_type": "INIT_FINISHED"
+                }
+            ], 
+            "group_id": "IEUrwPZkEe2r2AJQxVZTed", 
+            "p_trigger_id": null, 
+            "script": "", 
+            "trigger_id": 1792868407, 
+            "trigger_name": "Init", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": {
+        "_trigger_group_": true, 
+        "group": [
+            {
+                "__tuple__": true, 
+                "items": [
+                    1792868407, 
+                    "Init"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    217215043, 
+                    "WPress"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    872386628, 
+                    "SPress"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    1763647557, 
+                    "DPress"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    1310662726, 
+                    "APress"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    462356557, 
+                    "LMB"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    1202667599, 
+                    "LMBTimer"
+                ]
+            }
+        ], 
+        "key": "IEUrwPZkEe2r2AJQxVZTed", 
+        "name": "Input"
+    }
+}

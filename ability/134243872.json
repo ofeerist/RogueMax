@@ -430,7 +430,7 @@
             "script": "", 
             "trigger_id": 925941762, 
             "trigger_name": "AbilityPercastStarts", 
-            "valid": true
+            "valid": false
         }, 
         "1644036097": {
             "action": [

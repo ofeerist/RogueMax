@@ -253,7 +253,7 @@
             "script": "", 
             "trigger_id": 1769324545, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
-            "valid": true
+            "valid": false
         }, 
         "1786609669": {
             "action": [
@@ -340,7 +340,7 @@
             "script": "", 
             "trigger_id": 1786609669, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668_3", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_version": "1.2", 

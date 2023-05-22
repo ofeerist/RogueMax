@@ -169,7 +169,7 @@
             }, 
             "trigger_id": 132313093, 
             "trigger_name": "\u5b50\u89e6\u53d1\u5668_3", 
-            "valid": true
+            "valid": false
         }, 
         "434302982": {
             "action": [
@@ -274,7 +274,7 @@
             "script": "", 
             "trigger_id": 434302982, 
             "trigger_name": "\u5b50\u89e6\u53d1\u5668_8", 
-            "valid": true
+            "valid": false
         }, 
         "501354502": {
             "action": [
@@ -405,7 +405,7 @@
             "script": "", 
             "trigger_id": 501354502, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668_2", 
-            "valid": true
+            "valid": false
         }, 
         "1172533254": {
             "action": [
@@ -592,7 +592,7 @@
             }, 
             "trigger_id": 1172533254, 
             "trigger_name": "\u5b50\u89e6\u53d1\u5668_10", 
-            "valid": true
+            "valid": false
         }, 
         "1376194561": {
             "action": [
@@ -884,7 +884,7 @@
             "script": "", 
             "trigger_id": 1376194561, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
-            "valid": true
+            "valid": false
         }, 
         "2128883718": {
             "action": [
@@ -1058,7 +1058,7 @@
             }, 
             "trigger_id": 2128883718, 
             "trigger_name": "\u5b50\u89e6\u53d1\u5668_5", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_version": "1.2", 

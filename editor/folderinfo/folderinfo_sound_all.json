@@ -8,7 +8,45 @@
     2147483647, 
     "code_explorer_custom_root_folder_name"
    ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647", 
+    0, 
+    "YDPpcPfLEe2RhQJQxVZTeZ", 
+    "Melee"
+   ]
   }
  ], 
- "d": {}
+ "d": {
+  "134247223": {
+   "__tuple__": true, 
+   "items": [
+    "YDPpcPfLEe2RhQJQxVZTeZ", 
+    0
+   ]
+  }, 
+  "134277209": {
+   "__tuple__": true, 
+   "items": [
+    "YDPpcPfLEe2RhQJQxVZTeZ", 
+    1
+   ]
+  }, 
+  "134228177": {
+   "__tuple__": true, 
+   "items": [
+    "YDPpcPfLEe2RhQJQxVZTeZ", 
+    2
+   ]
+  }, 
+  "134278539": {
+   "__tuple__": true, 
+   "items": [
+    "YDPpcPfLEe2RhQJQxVZTeZ", 
+    3
+   ]
+  }
+ }
 }

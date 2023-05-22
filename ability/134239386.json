@@ -1100,7 +1100,7 @@
             "script": "", 
             "trigger_id": 235503619, 
             "trigger_name": "Ability Preparation Ends", 
-            "valid": true
+            "valid": false
         }, 
         "872964098": {
             "action": [
@@ -1159,7 +1159,7 @@
             "script": "", 
             "trigger_id": 872964098, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668_2", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_version": "1.2", 

@@ -814,7 +814,7 @@
             "script": "", 
             "trigger_id": 1214943233, 
             "trigger_name": "The_new_trigger", 
-            "valid": true
+            "valid": false
         }, 
         "1782968323": {
             "action": [

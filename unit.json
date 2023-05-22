@@ -1,3 +1,5057 @@
 {
-    "unit": {}
+    "unit": {
+        "2": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201350426, 
+                        1
+                    ], 
+                    "2_1": [
+                        201370597, 
+                        1
+                    ], 
+                    "2_2": [
+                        201376422, 
+                        1
+                    ], 
+                    "2_3": [
+                        201363425, 
+                        1
+                    ], 
+                    "2_4": [
+                        201384725, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -1, 
+                                2903293952
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -2, 
+                                886333440
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201357882, 
+            "name": "Sparta", 
+            "type": 1, 
+            "unit_id": 2
+        }, 
+        "3": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -23, 
+                                2787254272
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -3, 
+                                2541797376
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 3
+        }, 
+        "4": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -22, 
+                                2834137088
+                            ], 
+                            [
+                                -1, 
+                                4294965248
+                            ], 
+                            [
+                                -3, 
+                                2046263296
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 4
+        }, 
+        "5": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -21, 
+                                3904020480
+                            ], 
+                            [
+                                -1, 
+                                4294965248
+                            ], 
+                            [
+                                -3, 
+                                2046246912
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 5
+        }, 
+        "6": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -19, 
+                                82853888
+                            ], 
+                            [
+                                -1, 
+                                4294965248
+                            ], 
+                            [
+                                -3, 
+                                2046246912
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 6
+        }, 
+        "7": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -18, 
+                                171450368
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -3, 
+                                2541731840
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 7
+        }, 
+        "8": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -17, 
+                                648691712
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -3, 
+                                3036348416
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 8
+        }, 
+        "9": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -16, 
+                                1117200384
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -3, 
+                                3530014720
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 9
+        }, 
+        "10": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -15, 
+                                1379745792
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -3, 
+                                3530014720
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 10
+        }, 
+        "11": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -14, 
+                                2234032128
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -3, 
+                                3776536576
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 11
+        }, 
+        "12": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -13, 
+                                2885640192
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -3, 
+                                4022804480
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 12
+        }, 
+        "13": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -12, 
+                                3327705088
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -2, 
+                                219725824
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 13
+        }, 
+        "14": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -11, 
+                                3384131584
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -2, 
+                                219742208
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 14
+        }, 
+        "15": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -10, 
+                                830218240
+                            ], 
+                            [
+                                0, 
+                                2048
+                            ], 
+                            [
+                                -3, 
+                                554278912
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 15
+        }, 
+        "16": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -12, 
+                                1088741376
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -4, 
+                                3349012480
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 16
+        }, 
+        "17": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -13, 
+                                381009920
+                            ], 
+                            [
+                                0, 
+                                2048
+                            ], 
+                            [
+                                -4, 
+                                3850018816
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 17
+        }, 
+        "18": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -15, 
+                                3578601472
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -3, 
+                                55140352
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 18
+        }, 
+        "19": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -16, 
+                                2887794688
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -3, 
+                                55115776
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 19
+        }, 
+        "20": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -23, 
+                                749748224
+                            ], 
+                            [
+                                -1, 
+                                4294965248
+                            ], 
+                            [
+                                -4, 
+                                2847072256
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 20
+        }, 
+        "21": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -22, 
+                                557129728
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -4, 
+                                1083023360
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 21
+        }, 
+        "22": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -21, 
+                                876699648
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -4, 
+                                1083023360
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 22
+        }, 
+        "23": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -20, 
+                                1798160384
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -4, 
+                                1083023360
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 23
+        }, 
+        "24": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -19, 
+                                2117722112
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -4, 
+                                1083031552
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 24
+        }, 
+        "25": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -18, 
+                                2838544384
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -4, 
+                                1083023360
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 25
+        }, 
+        "26": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -17, 
+                                3356049408
+                            ], 
+                            [
+                                0, 
+                                2048
+                            ], 
+                            [
+                                -4, 
+                                830054400
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 26
+        }, 
+        "27": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -16, 
+                                3475726336
+                            ], 
+                            [
+                                -1, 
+                                4294965248
+                            ], 
+                            [
+                                -4, 
+                                323485696
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 27
+        }, 
+        "28": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -15, 
+                                3605004288
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -5, 
+                                3856785408
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 28
+        }, 
+        "29": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -13, 
+                                451158016
+                            ], 
+                            [
+                                0, 
+                                2048
+                            ], 
+                            [
+                                -5, 
+                                3602407424
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 29
+        }, 
+        "30": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -12, 
+                                1194573824
+                            ], 
+                            [
+                                0, 
+                                2048
+                            ], 
+                            [
+                                -5, 
+                                3347857408
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 30
+        }, 
+        "31": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -11, 
+                                1732689920
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -5, 
+                                3347824640
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 31
+        }, 
+        "32": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -12, 
+                                3317301248
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -6, 
+                                3795320832
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 32
+        }, 
+        "33": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -13, 
+                                2745229312
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -6, 
+                                3795279872
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 33
+        }, 
+        "34": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -14, 
+                                1767579648
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -6, 
+                                3795304448
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 34
+        }, 
+        "35": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -15, 
+                                992722944
+                            ], 
+                            [
+                                -1, 
+                                4294965248
+                            ], 
+                            [
+                                -6, 
+                                3795296256
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 35
+        }, 
+        "36": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -16, 
+                                826245120
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -6, 
+                                3795304448
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 36
+        }, 
+        "37": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -18, 
+                                4147920896
+                            ], 
+                            [
+                                -1, 
+                                4294965248
+                            ], 
+                            [
+                                -6, 
+                                4053499904
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 37
+        }, 
+        "38": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -19, 
+                                3578134528
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -6, 
+                                4053467136
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 38
+        }, 
+        "39": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -20, 
+                                3008348160
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -6, 
+                                4053499904
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 39
+        }, 
+        "40": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -21, 
+                                2641264640
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -6, 
+                                4053483520
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 40
+        }, 
+        "41": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -22, 
+                                2274164736
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -6, 
+                                4053475328
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 41
+        }, 
+        "42": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -23, 
+                                2079014912
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -6, 
+                                3536879616
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 42
+        }, 
+        "43": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -23, 
+                                2428641280
+                            ], 
+                            [
+                                -1, 
+                                4294965248
+                            ], 
+                            [
+                                -7, 
+                                3401277440
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 43
+        }, 
+        "44": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -22, 
+                                1856290816
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -7, 
+                                230727680
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 44
+        }, 
+        "45": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -21, 
+                                2063269888
+                            ], 
+                            [
+                                0, 
+                                2048
+                            ], 
+                            [
+                                -8, 
+                                3993755648
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 45
+        }, 
+        "46": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -20, 
+                                2503507968
+                            ], 
+                            [
+                                -1, 
+                                4294965248
+                            ], 
+                            [
+                                -8, 
+                                3993788416
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 46
+        }, 
+        "47": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -19, 
+                                3163512832
+                            ], 
+                            [
+                                -1, 
+                                4294965248
+                            ], 
+                            [
+                                -7, 
+                                230744064
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 47
+        }, 
+        "48": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -18, 
+                                3393568768
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -7, 
+                                230711296
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 48
+        }, 
+        "49": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -17, 
+                                4240678912
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -7, 
+                                230776832
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 49
+        }, 
+        "50": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -15, 
+                                175775744
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -7, 
+                                230719488
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 50
+        }, 
+        "51": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -14, 
+                                405831680
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -7, 
+                                230735872
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 51
+        }, 
+        "52": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -13, 
+                                837369856
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -7, 
+                                496328704
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 52
+        }, 
+        "53": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -21, 
+                                3074965504
+                            ], 
+                            [
+                                0, 
+                                2048
+                            ], 
+                            [
+                                -7, 
+                                4188299264
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 53
+        }, 
+        "54": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -20, 
+                                3273015296
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -7, 
+                                4188291072
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 54
+        }, 
+        "55": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -19, 
+                                3471065088
+                            ], 
+                            [
+                                -1, 
+                                4294965248
+                            ], 
+                            [
+                                -7, 
+                                4188332032
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 55
+        }, 
+        "56": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -18, 
+                                4281794560
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -7, 
+                                4188274688
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 56
+        }, 
+        "57": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -16, 
+                                1411866624
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -6, 
+                                155197440
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 57
+        }, 
+        "58": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -15, 
+                                2424324096
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -6, 
+                                155172864
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 58
+        }, 
+        "59": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -14, 
+                                3235913728
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -7, 
+                                4188315648
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 59
+        }, 
+        "60": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -13, 
+                                3240337408
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -7, 
+                                3663863808
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 60
+        }, 
+        "61": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -12, 
+                                1901109248
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -8, 
+                                4259848192
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 61
+        }, 
+        "62": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -12, 
+                                564559872
+                            ], 
+                            [
+                                0, 
+                                2048
+                            ], 
+                            [
+                                -9, 
+                                3996516352
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 62
+        }, 
+        "63": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -13, 
+                                95780864
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -9, 
+                                3455336448
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 63
+        }, 
+        "64": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -15, 
+                                3697491968
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -9, 
+                                4266704896
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 64
+        }, 
+        "65": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -16, 
+                                2809520128
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -8, 
+                                241647616
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 65
+        }, 
+        "66": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -17, 
+                                2547974144
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -8, 
+                                511328256
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 66
+        }, 
+        "67": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -18, 
+                                1865580544
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -8, 
+                                241672192
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 67
+        }, 
+        "68": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -19, 
+                                1577615360
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -9, 
+                                3726098432
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 68
+        }, 
+        "69": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -20, 
+                                1296384000
+                            ], 
+                            [
+                                0, 
+                                2048
+                            ], 
+                            [
+                                -9, 
+                                3455352832
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 69
+        }, 
+        "70": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -21, 
+                                815267840
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -9, 
+                                3455352832
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 70
+        }, 
+        "71": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -22, 
+                                778125312
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -9, 
+                                3996516352
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 71
+        }, 
+        "72": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        201333466, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -23, 
+                                3020505088
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -8, 
+                                3727409152
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201391110, 
+            "name": "Relic Crawler", 
+            "type": 4, 
+            "unit_id": 72
+        }
+    }
 }

@@ -941,7 +941,7 @@
             "script": "", 
             "trigger_id": 1713750017, 
             "trigger_name": "AbilityPercastStarts", 
-            "valid": true
+            "valid": false
         }, 
         "2082889730": {
             "action": [
@@ -1982,7 +1982,7 @@
             "script": "", 
             "trigger_id": 2082889730, 
             "trigger_name": "AbilityPercastEnds", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_version": "1.2", 

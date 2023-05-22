@@ -788,7 +788,7 @@
             "script": "", 
             "trigger_id": 1120460803, 
             "trigger_name": "Ability Preparation Ends", 
-            "valid": true
+            "valid": false
         }, 
         "1927729155": {
             "action": [

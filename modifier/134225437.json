@@ -294,7 +294,7 @@
             "script": "", 
             "trigger_id": 344707073, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
-            "valid": true
+            "valid": false
         }, 
         "2039234562": {
             "action": [
@@ -2842,7 +2842,26 @@
                     "enable": true
                 }
             ], 
-            "comment_str": {}, 
+            "comment_str": {
+                "1034275946": [
+                    1034275946, 
+                    "\u7b2c2\u6b21\u5f39\u5c04", 
+                    2039234562, 
+                    "action_type"
+                ], 
+                "1138472433": [
+                    1138472433, 
+                    "\u7b2c1\u6b21\u5f39\u5c04", 
+                    2039234562, 
+                    "action_type"
+                ], 
+                "1261829877": [
+                    1261829877, 
+                    "\u7b2c3\u6b21\u5f39\u5c04", 
+                    2039234562, 
+                    "action_type"
+                ]
+            }, 
             "condition": [
                 {
                     "args_list": [
@@ -2938,7 +2957,7 @@
             }, 
             "trigger_id": 2039234562, 
             "trigger_name": "\u5b50\u89e6\u53d1\u5668", 
-            "valid": true
+            "valid": false
         }, 
         "2078056452": {
             "action": [

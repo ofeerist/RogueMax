@@ -9593,6 +9593,259 @@
         "trigger_name": "minimap_btn1", 
         "valid": true
     }, 
+    "1922117710": {
+        "action": [
+            {
+                "action_type": "SET_VARIABLE", 
+                "args_list": [
+                    {
+                        "arg_type": 100028, 
+                        "args_list": [
+                            [
+                                "FLOAT", 
+                                "LastLMBRelease"
+                            ], 
+                            {
+                                "arg_type": 100002, 
+                                "args_list": [
+                                    {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "INTEGER", 
+                                            "i", 
+                                            "local"
+                                        ]
+                                    }
+                                ], 
+                                "sub_type": 6
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100000, 
+                        "args_list": [], 
+                        "sub_type": "CUR_GAME_TIME"
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 462356557000023, 
+                "enable": true
+            }, 
+            {
+                "action_type": "UNREG_TRIGGER", 
+                "args_list": [
+                    {
+                        "arg_type": 100178, 
+                        "args_list": [], 
+                        "sub_type": "CURRENT_DYNAMIC_TRIGGER_INSTANCE"
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1922117710000006, 
+                "enable": true
+            }, 
+            {
+                "action_type": "IF_THEN_ELSE", 
+                "args_list": [
+                    {
+                        "arg_type": 100021, 
+                        "args_list": [
+                            {
+                                "args_list": [
+                                    {
+                                        "arg_type": 100000, 
+                                        "args_list": [
+                                            {
+                                                "arg_type": 100000, 
+                                                "args_list": [
+                                                    [
+                                                        "FLOAT", 
+                                                        "LastLMBRelease"
+                                                    ], 
+                                                    {
+                                                        "arg_type": 100002, 
+                                                        "args_list": [
+                                                            {
+                                                                "__tuple__": true, 
+                                                                "items": [
+                                                                    "INTEGER", 
+                                                                    "i", 
+                                                                    "local"
+                                                                ]
+                                                            }
+                                                        ], 
+                                                        "sub_type": 6
+                                                    }
+                                                ], 
+                                                "sub_type": 2
+                                            }, 
+                                            {
+                                                "arg_type": 100017, 
+                                                "args_list": [
+                                                    "-"
+                                                ], 
+                                                "sub_type": 1
+                                            }, 
+                                            {
+                                                "arg_type": 100000, 
+                                                "args_list": [
+                                                    {
+                                                        "__tuple__": true, 
+                                                        "items": [
+                                                            "FLOAT", 
+                                                            "LastLMBPress"
+                                                        ]
+                                                    }, 
+                                                    {
+                                                        "arg_type": 100002, 
+                                                        "args_list": [
+                                                            {
+                                                                "__tuple__": true, 
+                                                                "items": [
+                                                                    "INTEGER", 
+                                                                    "i", 
+                                                                    "local"
+                                                                ]
+                                                            }
+                                                        ], 
+                                                        "sub_type": 6
+                                                    }
+                                                ], 
+                                                "sub_type": 2
+                                            }
+                                        ], 
+                                        "sub_type": "ARITHMETIC_OPERATION"
+                                    }, 
+                                    {
+                                        "arg_type": 100015, 
+                                        "args_list": [
+                                            "<"
+                                        ], 
+                                        "sub_type": 1
+                                    }, 
+                                    {
+                                        "arg_type": 100000, 
+                                        "args_list": [
+                                            0.5
+                                        ], 
+                                        "sub_type": 1
+                                    }
+                                ], 
+                                "condition_type": "FLOAT_COMPARE", 
+                                "element_id": 1922117710000035, 
+                                "enable": true
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100022, 
+                        "args_list": [
+                            {
+                                "action_type": "SEND_CUSTOM_EVENT", 
+                                "args_list": [
+                                    {
+                                        "arg_type": 100238, 
+                                        "args_list": [
+                                            1860960705
+                                        ], 
+                                        "sub_type": 1
+                                    }, 
+                                    {
+                                        "arg_type": 100025, 
+                                        "args_list": [
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "PLAYER", 
+                                                    "player", 
+                                                    "local"
+                                                ]
+                                            }
+                                        ], 
+                                        "sub_type": "VARIABLE"
+                                    }
+                                ], 
+                                "bp": false, 
+                                "element_id": 1922117710000026, 
+                                "enable": true
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100022, 
+                        "args_list": [], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1922117710000029, 
+                "enable": true
+            }
+        ], 
+        "comment_str": {}, 
+        "condition": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    "PLAYER", 
+                                    "player", 
+                                    "local"
+                                ]
+                            }
+                        ], 
+                        "sub_type": "VARIABLE"
+                    }, 
+                    {
+                        "arg_type": 100035, 
+                        "args_list": [
+                            "=="
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [], 
+                        "sub_type": "TRIGGER_PLAYER"
+                    }
+                ], 
+                "condition_type": "PLAYER_COMPARE", 
+                "element_id": 1922117710000010, 
+                "enable": true
+            }
+        ], 
+        "enabled": false, 
+        "event": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 200221, 
+                        "args_list": [
+                            240
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "element_id": 1922117710000003, 
+                "enable": true, 
+                "event_type": "MOUSE_KEY_UP_EVENT"
+            }
+        ], 
+        "group_id": 0, 
+        "is_conf": true, 
+        "p_trigger_id": 462356557, 
+        "script": "", 
+        "trigger_id": 1922117710, 
+        "trigger_name": "Sub-trigger", 
+        "valid": true
+    }, 
     "2010271789": {
         "action": [
             {

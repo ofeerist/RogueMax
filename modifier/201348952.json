@@ -187,7 +187,7 @@
             "script": "", 
             "trigger_id": 44613635, 
             "trigger_name": "The_child_trigger", 
-            "valid": true
+            "valid": false
         }, 
         "1067986945": {
             "action": [
@@ -209,7 +209,7 @@
             "script": "", 
             "trigger_id": 1067986945, 
             "trigger_name": "The_new_trigger", 
-            "valid": true
+            "valid": false
         }, 
         "1336434690": {
             "action": [

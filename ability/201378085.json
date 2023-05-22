@@ -21,7 +21,7 @@
             "script": "", 
             "trigger_id": 794238977, 
             "trigger_name": "AbilityGained", 
-            "valid": true
+            "valid": false
         }, 
         "1264054275": {
             "action": [
@@ -257,7 +257,7 @@
             "script": "", 
             "trigger_id": 1264054275, 
             "trigger_name": "HitsOtherUnitEventHandler", 
-            "valid": true
+            "valid": false
         }, 
         "1851203586": {
             "action": [], 

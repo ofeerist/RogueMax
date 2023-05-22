@@ -614,7 +614,7 @@
             "script": "", 
             "trigger_id": 807636994, 
             "trigger_name": "NormalAttackEventHandler", 
-            "valid": true
+            "valid": false
         }, 
         "904355844": {
             "action": [
@@ -1348,7 +1348,7 @@
             "script": "", 
             "trigger_id": 1891471361, 
             "trigger_name": "AbilityGained", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_version": "1.2", 

@@ -1,0 +1,926 @@
+{
+    "trigger_dict": {
+        "250490946": {
+            "action": [
+                {
+                    "action_type": "IF_THEN_ELSE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100021, 
+                            "args_list": [
+                                {
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "INTEGER", 
+                                                        "value", 
+                                                        "local"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 6
+                                        }, 
+                                        {
+                                            "arg_type": 100015, 
+                                            "args_list": [
+                                                ">"
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "INTEGER", 
+                                                        "max", 
+                                                        "local"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 6
+                                        }
+                                    ], 
+                                    "condition_type": "FLOAT_COMPARE", 
+                                    "element_id": 250490946000001, 
+                                    "enable": true
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [
+                                {
+                                    "action_type": "SET_VARIABLE", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100030, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "INTEGER", 
+                                                        "result", 
+                                                        "local"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "INTEGER", 
+                                                        "max", 
+                                                        "local"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 6
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 250490946000002, 
+                                    "enable": true
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [
+                                {
+                                    "action_type": "IF_THEN_ELSE", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100021, 
+                                            "args_list": [
+                                                {
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100002, 
+                                                            "args_list": [
+                                                                {
+                                                                    "__tuple__": true, 
+                                                                    "items": [
+                                                                        "INTEGER", 
+                                                                        "value", 
+                                                                        "local"
+                                                                    ]
+                                                                }
+                                                            ], 
+                                                            "sub_type": 6
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100015, 
+                                                            "args_list": [
+                                                                "<"
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100002, 
+                                                            "args_list": [
+                                                                {
+                                                                    "__tuple__": true, 
+                                                                    "items": [
+                                                                        "INTEGER", 
+                                                                        "min", 
+                                                                        "local"
+                                                                    ]
+                                                                }
+                                                            ], 
+                                                            "sub_type": 6
+                                                        }
+                                                    ], 
+                                                    "condition_type": "FLOAT_COMPARE", 
+                                                    "element_id": 250490946000003, 
+                                                    "enable": true
+                                                }
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100022, 
+                                            "args_list": [
+                                                {
+                                                    "action_type": "SET_VARIABLE", 
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100030, 
+                                                            "args_list": [
+                                                                {
+                                                                    "__tuple__": true, 
+                                                                    "items": [
+                                                                        "INTEGER", 
+                                                                        "result", 
+                                                                        "local"
+                                                                    ]
+                                                                }
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100002, 
+                                                            "args_list": [
+                                                                {
+                                                                    "__tuple__": true, 
+                                                                    "items": [
+                                                                        "INTEGER", 
+                                                                        "min", 
+                                                                        "local"
+                                                                    ]
+                                                                }
+                                                            ], 
+                                                            "sub_type": 6
+                                                        }
+                                                    ], 
+                                                    "bp": false, 
+                                                    "element_id": 250490946000004, 
+                                                    "enable": true
+                                                }
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100022, 
+                                            "args_list": [
+                                                {
+                                                    "action_type": "SET_VARIABLE", 
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100030, 
+                                                            "args_list": [
+                                                                {
+                                                                    "__tuple__": true, 
+                                                                    "items": [
+                                                                        "INTEGER", 
+                                                                        "result", 
+                                                                        "local"
+                                                                    ]
+                                                                }
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100002, 
+                                                            "args_list": [
+                                                                {
+                                                                    "__tuple__": true, 
+                                                                    "items": [
+                                                                        "INTEGER", 
+                                                                        "value", 
+                                                                        "local"
+                                                                    ]
+                                                                }
+                                                            ], 
+                                                            "sub_type": 6
+                                                        }
+                                                    ], 
+                                                    "bp": false, 
+                                                    "element_id": 250490946000005, 
+                                                    "enable": true
+                                                }
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 250490946000006, 
+                                    "enable": true
+                                }
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 250490946000007, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": 400342, 
+                    "args_list": [
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "INTEGER", 
+                                        "result", 
+                                        "local"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 6
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 250490946000008, 
+                    "enable": true
+                }
+            ], 
+            "comment_str": {}, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [], 
+            "func_des": "Clamp {value} max {max} min {min}", 
+            "func_id": "f51a9f80df6f11ed992a0250c5565379", 
+            "func_name": "ClampInt", 
+            "func_param_list": [
+                [
+                    "value", 
+                    true
+                ], 
+                [
+                    "max", 
+                    true
+                ], 
+                [
+                    "min", 
+                    true
+                ]
+            ], 
+            "func_return": true, 
+            "func_rtv_name_list": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "result", 
+                        "INTEGER"
+                    ]
+                }
+            ], 
+            "group_id": 0, 
+            "is_func": true, 
+            "is_official_func": false, 
+            "p_trigger_id": null, 
+            "script": "", 
+            "trigger_id": 250490946, 
+            "trigger_name": "ClampInt", 
+            "valid": true
+        }, 
+        "1072574528": {
+            "action": [
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100030, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "FLOAT", 
+                                        "result", 
+                                        "local"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100000, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "FLOAT", 
+                                                        "a", 
+                                                        "local"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 2
+                                        }, 
+                                        {
+                                            "arg_type": 100017, 
+                                            "args_list": [
+                                                "*"
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100000, 
+                                            "args_list": [
+                                                {
+                                                    "arg_type": 100000, 
+                                                    "args_list": [
+                                                        1.0
+                                                    ], 
+                                                    "sub_type": 1
+                                                }, 
+                                                {
+                                                    "arg_type": 100017, 
+                                                    "args_list": [
+                                                        "-"
+                                                    ], 
+                                                    "sub_type": 1
+                                                }, 
+                                                {
+                                                    "arg_type": 100000, 
+                                                    "args_list": [
+                                                        {
+                                                            "__tuple__": true, 
+                                                            "items": [
+                                                                "FLOAT", 
+                                                                "t", 
+                                                                "local"
+                                                            ]
+                                                        }
+                                                    ], 
+                                                    "sub_type": 2
+                                                }
+                                            ], 
+                                            "sub_type": "ARITHMETIC_OPERATION"
+                                        }
+                                    ], 
+                                    "sub_type": "ARITHMETIC_OPERATION"
+                                }, 
+                                {
+                                    "arg_type": 100017, 
+                                    "args_list": [
+                                        "+"
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100000, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "FLOAT", 
+                                                        "b", 
+                                                        "local"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 2
+                                        }, 
+                                        {
+                                            "arg_type": 100017, 
+                                            "args_list": [
+                                                "*"
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100000, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "FLOAT", 
+                                                        "t", 
+                                                        "local"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 2
+                                        }
+                                    ], 
+                                    "sub_type": "ARITHMETIC_OPERATION"
+                                }
+                            ], 
+                            "sub_type": "ARITHMETIC_OPERATION"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1072574528000001, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": 400342, 
+                    "args_list": [
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "FLOAT", 
+                                        "result", 
+                                        "local"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 2
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1072574528000002, 
+                    "enable": true
+                }
+            ], 
+            "comment_str": {}, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [], 
+            "func_des": "Lerp {a} to {b} by {t}", 
+            "func_id": "6d7de4aec66f11ed89ad0250c5565379", 
+            "func_name": "Lerp", 
+            "func_param_list": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "a", 
+                        true
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "b", 
+                        true
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "t", 
+                        true
+                    ]
+                }
+            ], 
+            "func_return": true, 
+            "func_rtv_name_list": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "result", 
+                        "FLOAT"
+                    ]
+                }
+            ], 
+            "group_id": 0, 
+            "is_func": true, 
+            "is_official_func": false, 
+            "p_trigger_id": null, 
+            "script": "", 
+            "trigger_id": 1072574528, 
+            "trigger_name": "Lerp", 
+            "valid": true
+        }, 
+        "1089351745": {
+            "action": [
+                {
+                    "action_type": "IF_THEN_ELSE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100021, 
+                            "args_list": [
+                                {
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100000, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "FLOAT", 
+                                                        "value", 
+                                                        "local"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 2
+                                        }, 
+                                        {
+                                            "arg_type": 100015, 
+                                            "args_list": [
+                                                ">"
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100000, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "FLOAT", 
+                                                        "max", 
+                                                        "local"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 2
+                                        }
+                                    ], 
+                                    "condition_type": "FLOAT_COMPARE", 
+                                    "element_id": 1089351745000001, 
+                                    "enable": true
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [
+                                {
+                                    "action_type": "SET_VARIABLE", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100030, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "FLOAT", 
+                                                        "result", 
+                                                        "local"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100000, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "FLOAT", 
+                                                        "max", 
+                                                        "local"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 2
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 1089351745000002, 
+                                    "enable": true
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [
+                                {
+                                    "action_type": "IF_THEN_ELSE", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100021, 
+                                            "args_list": [
+                                                {
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100000, 
+                                                            "args_list": [
+                                                                {
+                                                                    "__tuple__": true, 
+                                                                    "items": [
+                                                                        "FLOAT", 
+                                                                        "value", 
+                                                                        "local"
+                                                                    ]
+                                                                }
+                                                            ], 
+                                                            "sub_type": 2
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100015, 
+                                                            "args_list": [
+                                                                "<"
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100000, 
+                                                            "args_list": [
+                                                                {
+                                                                    "__tuple__": true, 
+                                                                    "items": [
+                                                                        "FLOAT", 
+                                                                        "min", 
+                                                                        "local"
+                                                                    ]
+                                                                }
+                                                            ], 
+                                                            "sub_type": 2
+                                                        }
+                                                    ], 
+                                                    "condition_type": "FLOAT_COMPARE", 
+                                                    "element_id": 1089351745000003, 
+                                                    "enable": true
+                                                }
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100022, 
+                                            "args_list": [
+                                                {
+                                                    "action_type": "SET_VARIABLE", 
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100030, 
+                                                            "args_list": [
+                                                                {
+                                                                    "__tuple__": true, 
+                                                                    "items": [
+                                                                        "FLOAT", 
+                                                                        "result", 
+                                                                        "local"
+                                                                    ]
+                                                                }
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100000, 
+                                                            "args_list": [
+                                                                {
+                                                                    "__tuple__": true, 
+                                                                    "items": [
+                                                                        "FLOAT", 
+                                                                        "min", 
+                                                                        "local"
+                                                                    ]
+                                                                }
+                                                            ], 
+                                                            "sub_type": 2
+                                                        }
+                                                    ], 
+                                                    "bp": false, 
+                                                    "element_id": 1089351745000004, 
+                                                    "enable": true
+                                                }
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100022, 
+                                            "args_list": [
+                                                {
+                                                    "action_type": "SET_VARIABLE", 
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100030, 
+                                                            "args_list": [
+                                                                {
+                                                                    "__tuple__": true, 
+                                                                    "items": [
+                                                                        "FLOAT", 
+                                                                        "result", 
+                                                                        "local"
+                                                                    ]
+                                                                }
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100000, 
+                                                            "args_list": [
+                                                                {
+                                                                    "__tuple__": true, 
+                                                                    "items": [
+                                                                        "FLOAT", 
+                                                                        "value", 
+                                                                        "local"
+                                                                    ]
+                                                                }
+                                                            ], 
+                                                            "sub_type": 2
+                                                        }
+                                                    ], 
+                                                    "bp": false, 
+                                                    "element_id": 1089351745000005, 
+                                                    "enable": true
+                                                }
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 1089351745000006, 
+                                    "enable": true
+                                }
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1089351745000007, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": 400342, 
+                    "args_list": [
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "FLOAT", 
+                                        "result", 
+                                        "local"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 2
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1089351745000008, 
+                    "enable": true
+                }
+            ], 
+            "comment_str": {}, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [], 
+            "func_des": "Clamp {value} max {max} min {min}", 
+            "func_id": "de276370c67511edabec0250c5565379", 
+            "func_name": "Clamp", 
+            "func_param_list": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "value", 
+                        true
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "max", 
+                        true
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "min", 
+                        true
+                    ]
+                }
+            ], 
+            "func_return": true, 
+            "func_rtv_name_list": [
+                [
+                    "result", 
+                    "FLOAT"
+                ]
+            ], 
+            "group_id": 0, 
+            "is_func": true, 
+            "is_official_func": false, 
+            "p_trigger_id": null, 
+            "script": "", 
+            "trigger_id": 1089351745, 
+            "trigger_name": "Clamp", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": {
+        "_function_": true, 
+        "_trigger_group_": true, 
+        "group": [
+            {
+                "_function_": true, 
+                "_trigger_group_": true, 
+                "group": [
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1391341627, 
+                            "vectorOperators"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1492004924, 
+                            "vectorDot"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            367931453, 
+                            "vectorReflect"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1089351742, 
+                            "vectorFloatOperators"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1424896063, 
+                            "vectorLenght"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            2117324873, 
+                            "vectorLerp"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            238489671, 
+                            "ClampVector"
+                        ]
+                    }
+                ], 
+                "is_sub_folder": true, 
+                "key": "xy+7MPZkEe2H-wJQxVZTef", 
+                "name": "vectors"
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    1072574528, 
+                    "Lerp"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    1089351745, 
+                    "Clamp"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    250490946, 
+                    "ClampInt"
+                ]
+            }
+        ], 
+        "key": "6vl8T-bREe2s2gJQxVZTeZ", 
+        "name": "Math"
+    }
+}

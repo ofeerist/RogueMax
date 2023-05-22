@@ -74,7 +74,7 @@
             "script": "", 
             "trigger_id": 131936261, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668_2", 
-            "valid": true
+            "valid": false
         }, 
         "872005635": {
             "action": [
@@ -302,7 +302,7 @@
             }, 
             "trigger_id": 872005635, 
             "trigger_name": "\u51b0\u971c\u6c14\u606f\u4e09\u9636\u88ab\u52a8_2", 
-            "valid": true
+            "valid": false
         }, 
         "1996980225": {
             "action": [
@@ -387,7 +387,7 @@
             "script": "", 
             "trigger_id": 1996980225, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_version": "1.2", 
